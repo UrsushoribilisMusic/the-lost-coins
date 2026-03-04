@@ -2,7 +2,7 @@
 
 **Published on Substack**: [scifibymiguel.substack.com](https://scifibymiguel.substack.com)
 
-~48 chapters planned. Ch0–38 written. Ch39–47 outlined below.
+51 chapters (Ch0–50) + Post-Credits. All written.
 
 ---
 
@@ -62,31 +62,40 @@
 | 35 | The Last Supper | Written |
 | 36 | The Morning After | Written |
 | 37 | The Shell Game | Written |
-| 38 | The Mismatch | Written — BIG TWIST: the canister holds a young woman, not Hal Finney |
+| 38 | The Mismatch | Written — BIG TWIST: the canister holds a young woman, not Hal Finnley |
 
 ---
 
-## Act IV — The Raid (Ch39–47)
+## Act IV — The Raid (Ch39–50) + Post-Credits
 
-| Ch | Summary | Status |
-|----|---------|--------|
-| 39 | Paul finds a name in the canister. Refuses to continue out of respect. Zheng snaps — throws Paul and Erica in the dungeon. | Outline |
-| 40 | FBI prepares raid. Local police and Alcor security chief converge separately. | Outline |
-| 41 | Lena fully wired, sent into the meeting. Zheng and Gonzales both present. FBI and police move in from two sides — neither knows about the other. A cartel trigger-man starts a shootout. | Outline |
-| 42 | FBI extracts Erica — grazed but alive. Gonzales is hit. Zheng is captured. | Outline |
-| 43 | FBI takes Erica and Paul to the station. Erica discovers she is pregnant. | Outline |
-| 44 | Lena gets medical attention for a graze wound. Doctor informs her she is also pregnant. | Outline |
-| 45 | News: arrests announced — money laundering and cartel kingpin. | Outline |
-| 46 | FBI debrief. Alcor confirms the canister was never actually swapped — Gonzales's men were tricked by Alcor security. Paul is relieved. | Outline |
-| 47 | Three months later. Erica and Lena shop for baby clothes in Reno. Alcor has offered both women research positions. Paul is joining too. They talk about names, about growing together. | Outline |
+| Ch | Title | Status |
+|----|-------|--------|
+| 39 | The Signal in the Dark | Written — Sheriff gets the Alcor breach report; GPS points to the mill; he won't move without a warrant |
+| 40 | The Swap | Written — Gonzales discovers his men grabbed the wrong canister by confusing their own decoy transponders |
+| 41 | The Name on the Label | Written — Paul finds "FINNLEY, H." and refuses to continue; the team is thrown in the dungeon; Erica comforts Paul in the dark |
+| 42 | The Cluster | Written — FBI in position on the ridge; Sheriff moving from the north; Zheng and Gonzales converge on the mill |
+| 43 | The Gathering Storm | Written — Zheng confronts Gonzales inside the mill; Sheriff walks in oblivious; Smith frozen watching the powder keg |
+| 44 | The Big Fire | Written — FBI breach triggers the shootout; three-front war inside the mill; Zheng escapes into the forest |
+| 45 | The Depths of the Mill | Written — Pinto frees Paul, Erica and Chen from the dungeon; Erica slaps Lena; Zheng is tased and captured on the ridge |
+| 46 | The Bait and the Switch | Written — Alcor reveals the real Finnley was never at risk; Zheng stole his own mob bookkeeper ("Sister Maria") |
+| 47 | The New Growth | Written — At the ambulance, Erica tells Paul she is pregnant; five weeks; the joy breaks through the chaos |
+| 48 | The Napa Connection | Written — Lena discovers she is also pregnant (three weeks — from the Napa night); Erica's grace under pressure |
+| 49 | The Public Record | Written — News coverage of the raid; Smith announces the $250k bounty paid; the trio watches on TV from the hospital |
+| 50 | The Hamlet in Zug | Written — Four months later; Erica and Lena in Zug shopping for baby clothes; Alcor jobs; farmhouse; solid oak cribs |
+| PC | Post-Credits: The Long Sleep | Written — Alcor Scottsdale; the real Hal Finnley sleeps undisturbed in Unit 001-H; "Sleep tight, Hal." |
 
 ---
 
 ## Key Plot Points
 
 - **9.08 BTC recovered** in Ch6–7 — the hook that pulls everyone deeper
-- **Zheng's goal**: Access Hal Finney's frozen wallet (billions in untouched Bitcoin). His exit from the underworld.
-- **The Mismatch** (Ch38): The canister holds a young woman, not Finney. Alcor's security quietly swapped the ID tags — Gonzales's crew stole the wrong body.
-- **Lena flipped** by FBI in Ch32. Wired for the Ch41 raid.
-- **Both women pregnant** — discovered in Ch43–44. Central thematic parallel: life beginning as the criminal world collapses.
-- **Ending**: Erica and Lena in Reno baby shops. Both with Alcor research jobs. Paul with them.
+- **Zheng's goal**: Access Hal Finnley's frozen wallet (billions in untouched Bitcoin). His exit from the underworld.
+- **The Mismatch** (Ch38): The canister holds a young woman, not Finnley. Alcor security quietly swapped the ID tags — Gonzales's crew stole the wrong body.
+- **The Double Shell Game** (Ch40+46): Gonzales's men confused their own decoy transponders and stole "Sister Maria," a Mafia bookkeeper Gonzales himself had stored at Alcor.
+- **FINNLEY, H.** (Ch41): Paul finds the real label and refuses to continue — the moral pivot of the story.
+- **Lena flipped** by FBI in Ch32. Wired and present at the Ch44 raid.
+- **Erica pregnant** (Ch47): Discovered at the ambulance — five weeks, Paul's child.
+- **Lena pregnant** (Ch48): Three weeks — from the Napa night. Both women carrying Paul's children.
+- **The bounty** (Ch49): $250,000 — clean money, enough to start over.
+- **Ending** (Ch50): Erica and Lena in Zug. Alcor European research jobs. Farmhouse with Paul and Chen. Solid oak cribs, identical.
+- **Post-Credits**: The real Hal Finnley sleeps on at -196°C. The legend is safe. The world isn't ready yet.

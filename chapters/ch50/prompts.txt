@@ -1,0 +1,18 @@
+Chapter 50 - The Hamlet in Zug
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Erica and Lena on Cobblestones
+Seed: none
+Exterior wide shot — a narrow cobblestone street in a Swiss lakeside old town, afternoon sun glinting off the lake visible at the end of the lane. Two women walk side by side at an easy synchronized pace, both showing the soft silhouette of early pregnancy. Old stone buildings line the street, window boxes full of late-season color. Vertical 9:16, wide exterior shot, two women walking in step into a world that has finally slowed down.
+
+PROMPT 2 - The Boutique Window
+Seed: none
+Exterior medium shot — two women stand before a shop window filled with hand-knitted woolens, wooden toys, and small leather booties. One holds up a tiny cream cardigan toward the light. The other touches the glass. Their reflections float over the display. The street behind them is quiet and unhurried. Vertical 9:16, exterior medium shot, two women choosing soft things for the lives they are building.
+
+PROMPT 3 - The Farmhouse on the Rise
+Seed: none
+Exterior wide shot — a stone-walled farmhouse on a gentle rise above a Swiss valley. Green pastures slope away in all directions, Alpine peaks pale and permanent in the distance. The farmhouse is modest and solid, smoke curling from a chimney, a wide porch facing the valley. Vertical 9:16, wide exterior pastoral shot, the home they found at the end of the longest journey.
+
+PROMPT 4 - Paul and Chen at the Cafe
+Seed: none
+Exterior medium shot — two men sit at a small sidewalk cafe table in the old town. One has dark curly hair and a phone pressed to his ear, floor plans spread on the table beside his coffee. The other sits opposite, chin in hand, the expression of a man who has heard the farmhouse speech many times and remains only slightly tired of it. The lake glints in the background. Vertical 9:16, exterior medium cafe shot, the engineers planning the next chapter.

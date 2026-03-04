@@ -1,0 +1,18 @@
+Chapter 44 - The Big Fire
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - FBI Breach
+Seed: none
+Wide interior shot from the far end of the mill. The heavy timber doors explode inward in a pulse of white smoke and splintered wood as dark-clad FBI tactical units surge through the gap. Blue laser dots spray across the haze. In the foreground, soldiers are rising from their posts, guns drawn. The moment of breach — everything about to change. Vertical 9:16, wide dynamic interior shot, the tactical entry as the pivot point between silence and violence.
+
+PROMPT 2 - The Three-Way Firefight
+Seed: none
+Interior wide shot from above — the mill floor a chaos of muzzle flash, cordite smoke, and scattering men. On the left, soldiers firing in panic. On the right, a disciplined detail forming a wall of lead. Through the center, FBI agents in tactical gear advancing with precision. Between them all: the silver cryo-canister, unmoved at the heart of the storm. Vertical 9:16, aerial wide interior shot, three factions and one objective in a storm of light and smoke.
+
+PROMPT 3 - Lena on the Floor
+Seed: none
+Medium low shot — a woman with long blonde hair lying flat on cold concrete, hands over her head, as the air above her is shredded by automatic fire. Above her, a server rack ruptures, spilling coolant in a white hissing cloud. The silver canister stands at the edge of frame, alone in the chaos. Her eyes are open, watching the war from the floor. Vertical 9:16, low medium shot, the observer surviving at floor level as the world above her disintegrates.
+
+PROMPT 4 - Boot Prints into the Trees
+Seed: none
+Medium shot from behind a man in dark FBI tactical gear — standing at a rear loading bay doorway, looking out at a wall of massive Sequoia trunks. In the soft dirt before him: several sets of fresh boot prints leading from the bay into the dark forest. His hand tightens on his rifle. Somewhere in those trees, someone ran. Vertical 9:16, rear medium shot from the loading bay threshold, the evidence of escape written in the earth.

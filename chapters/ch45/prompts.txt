@@ -1,0 +1,18 @@
+Chapter 45 - The Depths of the Mill
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Into the Stairwell
+Seed: none
+Interior medium shot from above — a line of tactical agents moving single-file down a narrow, unlit concrete stairwell. At the front: a man with a torch clipped to his vest. Behind him: a woman with long blonde hair descending carefully. The walls are raw stone, slick with damp. At the bottom, visible through the gloom: a heavy iron door. Vertical 9:16, overhead medium shot, the descent into the earth where the hostages wait.
+
+PROMPT 2 - The Cellar Door Opens
+Seed: none
+Interior low-angle shot — a blown iron door falls inward with a crash of rust and smoke. Through the gap, tactical torchlight cuts into absolute darkness. On the dirt floor inside: two figures — a man with dark curly hair clutching his ribs, a second man sitting beside him. Both blink against the sudden light, pale, like something exhumed. Vertical 9:16, low-angle interior shot, the moment of liberation from the dark.
+
+PROMPT 3 - The Slap
+Seed: none
+Interior medium two-shot — a woman with long dark hair, eyes blazing, one arm extended after a strike. Facing her: a blonde woman with her head turned, hand pressed to a reddening cheek, her expression still rather than defensive. Between them: a tactical agent stepping forward to intervene, catching the second swing. The stone walls of the cellar close them in. Vertical 9:16, tight medium interior shot, the reckoning between two women underground.
+
+PROMPT 4 - Zheng Tasered in the Forest
+Seed: none
+Exterior wide shot through Sequoia trunks — a man in an expensive but torn wool coat stumbles mid-stride on the forest floor as two yellow taser probes strike his back. His body locks, arms rigid, and he drops into the pine needles. Around him: ferns, ancient bark, morning light filtering through the canopy far above. Vertical 9:16, wide exterior forest shot, the man who thought he was untouchable meeting the ground.

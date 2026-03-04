@@ -1,0 +1,8 @@
+STYLE 1 - The Corridor (Ambient Cryogenic Electronic)
+Prompt: Ambient Cryogenic Electronic, 52 BPM, C Minor, Low-Frequency Drone Sustain, Single Piano Note Every Four Bars, Liquid Nitrogen Hiss Sample, No Vocal, Corridor 4, The Stainless Steel Dewars, The Sound of a Billion Dollars Worth of Cold, The Future on Ice, No Sirens No Big Fire Just the Hum
+
+STYLE 2 - Sleep Tight Hal (Orchestral Elegy)
+Prompt: Orchestral Elegy, 56 BPM, B Minor, Solo Cello Over Held String Pad, Single Soft Timpani, Very Long Reverb Tail, No Vocal, The Pristine Canister Without a Scratch, The Green Light Pulsing, The Man Who Changed the World With a Few Lines of Code, Sleep Tight, The World Isn't Ready for You Yet, They're Still Fighting Over the Coins You Left Behind
+
+STYLE 3 - The Digital Heartbeat (Minimal Electronic Ambient)
+Prompt: Minimal Electronic Ambient, 48 BPM, A Minor, Sine Wave Pulse on the Downbeat, Glass Harmonica Shimmer, Near Silence Between Beats, No Vocal, The Green Light in the Dark, A Slow Digital Heartbeat, The Future Slowly Learning Its Lesson, The End That Is Also a Beginning, The Long Sleep Continuing

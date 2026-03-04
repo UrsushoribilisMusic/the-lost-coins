@@ -1,0 +1,18 @@
+Chapter 39 - The Signal in the Dark
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Sheriff's Office Monitor
+Seed: none
+Interior shot of a rural county sheriff's office at night, fluorescent overhead lighting, institutional beige walls. A large HD monitor on the main desk shows a video call — the face of a security official in crisp uniform, expression controlled and urgent. The desk is cluttered with paper maps and coffee cups. A heavyset man in a tan sheriff's uniform sits forward in his chair, rubbing his eyes, studying GPS coordinates on a printed sheet. The room behind him is quiet — low hum of equipment, a deputy visible through a glass partition. Vertical 9:16, static medium shot, the monitor light the brightest thing in the frame, bureaucratic fatigue meeting a corporate emergency.
+
+PROMPT 2 - GPS Coordinates on the Map
+Seed: none
+Close overhead shot of a topographic paper map spread on a desk, a blunt finger pressing down on a point in the Sequoia National Forest — the north ridge. A GPS coordinate sheet lies beside it. The map shows elevation lines, logging roads, a circle hand-drawn in red marker around the old mill location. Adjacent: a ceramic coffee mug, a brass badge face-down, a radio crackling static. The light is a single desk lamp, warm and yellow against the cold institutional grey. Vertical 9:16, tight overhead close shot, the map as the world, the finger that points at the crisis.
+
+PROMPT 3 - Sheriff Leans Back
+Seed: none
+Medium shot from the side of a heavyset man in a tan uniform and duty belt, leaning back in a creaking office chair, staring at the ceiling. Arms crossed. Expression of a man calculating costs he doesn't want to pay. The room behind him: filing cabinets, a framed aerial photo of the county, a corkboard thick with papers. A monitor glows blue ahead of him. His jaw is set — not afraid, not reckless, just methodical. Vertical 9:16, side-angle medium shot, the posture of a man choosing the slower and harder right thing.
+
+PROMPT 4 - Deputies Ready at Dawn
+Seed: none
+Exterior dawn shot of a small-town county sheriff's station parking lot. Two patrol cruisers are parked nose-out, engines running, exhaust curling in the cold mountain air. Three deputies in tan uniform stand by the lead vehicle, checking gear — radio, flashlight, duty belt. The sky to the east is pale gold above the ridge line. A white service van with a logo on the door is parked to the side. The mood is quiet and purposeful — not a raid, but the slow, inevitable weight of the law moving on its own schedule. Vertical 9:16, wide exterior dawn shot, cold mountain air, the machinery of legal justice warming up.

@@ -1,0 +1,8 @@
+STYLE 1 - Napa (Intimate Confessional Piano)
+Prompt: Confessional Intimate Piano, 60 BPM, B Minor, Solo Piano Only, Long Sustain Pedal, Silence Between Notes, Soft Female Vocal Barely Above a Whisper, The Hospital Room Tilting, Three Weeks, The Math Instantaneous, The Night in Napa, The Lines That Dissolved, The Truth That Cannot Be Unspoken
+
+STYLE 2 - The Two-for-One (Dark Irony Cinematic)
+Prompt: Dark Irony Cinematic Pop, 80 BPM, G Minor, Piano Chord Stab, Muted Bass, Sparse Snare, Dry Female Vocal Sharp Edge, One Hell of a Birthday Present, A Two-for-One Special from Napa, Stop, If We Are Going to Survive What Comes Next We Do It With the Truth, The Three of Them Bonded by Something More Permanent Than Bitcoin
+
+STYLE 3 - The Panda Sanctuary (Warm Absurdist Folk)
+Prompt: Warm Absurdist Folk Pop, 100 BPM, C Major, Acoustic Guitar, Light Drum Kit, Bass Walk, Cheerful Male Vocal, I Told You the World Needed More Pandas, I Didn't Think You Were Starting a Whole Sanctuary, You Really Don't Do Anything Halfway, The Spy the Scientist the Engineer, Bonded by the Messy Beautiful Future

@@ -1,0 +1,18 @@
+Chapter 41 - The Name on the Label
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Paul Finds the Label
+Seed: none
+Extreme close-up shot from above and to one side — a man's hand pulling back a corner of metallic thermal shielding on the base of a silver cylindrical cryo-canister. His fingers are careful, almost reverent. Just visible in a recessed niche beneath the shielding: a small yellowed plastic label punched with embossed letters — FINNLEY, H. The background is out of focus: the cold blue-white glow of the sterile mill lab. A breath fogs the glass of the canister beside the label. Vertical 9:16, extreme close-up, the label as the entire world, the moment of discovery that changes everything.
+
+PROMPT 2 - Paul and Erica React
+Seed: none
+Over-the-shoulder shot from behind two figures crouching at the base of the cryo-canister. The woman — long dark hair, brown eyes, white lab coat — leans close, her face inches from the label, eyes widening. The man beside her — dark curly hair, hoodie — has straightened slightly, his hand still on the canister, his face pale and stunned in the cold blue equipment light. Neither speaks. The sterile mill interior surrounds them — server racks, cable bundles, the quiet hum of cooling systems. Vertical 9:16, over-shoulder tight shot, the two of them in silhouette against the canister's glow, the weight of the name between them.
+
+PROMPT 3 - The Security Team Moves In
+Seed: none
+Wide interior shot of the mill's main lab floor. Four security guards in dark tactical clothing advance from the shadows toward the center of the room. A man with dark curly hair in a hoodie lunges forward toward the nearest guard — reaching, protective, outmatched. A second figure — long dark hair, lab coat — is grabbed from behind by two guards, her arms pinned. The scene is lit by cold overhead strip lights. Machinery and server racks frame the violent choreography. Vertical 9:16, wide shot capturing the full sweep of the security response, the science giving way to muscle.
+
+PROMPT 4 - The Dungeon
+Seed: none
+Interior of a low stone-walled cellar — the old grain dungeon beneath the mill. Near-total darkness, only a thin thread of light under the heavy iron door far above. A man with dark curly hair sits with his back against the cold stone wall, one hand pressed against his side, breathing carefully. A woman with long dark hair sits close beside him, her hand resting on his, both of them very still. The floor is packed earth, the air close and damp. No windows. The darkness is the whole world. Vertical 9:16, very low-light atmospheric wide shot, the intimacy of two people reduced to what matters.

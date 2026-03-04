@@ -1,0 +1,18 @@
+Chapter 40 - The Swap
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Zheng on the Monitor
+Seed: none
+Interior of a luxury safe house living room at dusk — mahogany desk, heavy drapes, a single standing lamp. A large monitor on the desk shows a video call: a silver-haired man in a tailored suit, face controlled and furious, voice silent but posture unmistakably threatening. From behind, a heavyset man in a dark shirt sits at the desk, tapping the keyboard to end the call. The room is expensive but anonymous — a high-end rental, no personal items. Vertical 9:16, over-shoulder medium shot from behind the seated man, monitor glow reflected in the lacquered desk surface.
+
+PROMPT 2 - Gonzales Confronts the Transporters
+Seed: none
+Interior of a safe house living room, evening light filtered through heavy curtains. From behind and to the side of a heavyset man with a salt-and-pepper mustache — he stands with his back to us, stepping toward two younger men seated on a sofa. The younger men look small, shoulders hunched, eyes darting. The big man's posture is slow and deliberate — a predator taking his time. His hands are loose at his sides. Expensive dark carpet, anonymous furniture, air conditioning hum. Vertical 9:16, three-quarter rear shot emphasising the power imbalance, the seated men reduced by the frame.
+
+PROMPT 3 - Two Canisters at the Staging Point
+Seed: none
+Low-angle interior shot of an industrial staging area — bare concrete floor, loading bay doors half-open to night air. Two identical silver cylindrical canisters sit side by side under harsh work lights, cables and transponder units visible on each. One has a small blinking red LED. A gloved hand points at the red unit — pointing at the wrong one. Two silhouetted figures crouch beside them, moving fast, under the clock. The scene is lit by a single work lamp and the glow of a mobile phone screen. Vertical 9:16, low-angle wide shot, the terrible symmetry of two identical objects and one fatal choice.
+
+PROMPT 4 - Gonzales Checks His Watch
+Seed: none
+Close side shot of a heavyset man with a salt-and-pepper mustache, standing near a window with heavy curtains slightly parted — a sliver of mountain dusk light. He raises his left wrist and checks a thick gold watch, expression cold and calculating. His jaw is tight. Behind him, two figures move in the background, readying gear bags. The moment has the stillness of a decision already made. Vertical 9:16, tight side-angle close shot, the gold watch face catching the last light, the gravity of tomorrow already in his posture.

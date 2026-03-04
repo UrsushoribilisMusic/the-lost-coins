@@ -1,0 +1,18 @@
+Chapter 42 - The Cluster
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Agent Smith on the Ridge
+Seed: none
+Wide exterior shot of a Sequoia forest ridge at early morning, light barely filtering through the canopy. A man in dark tactical clothing lies prone in a hide of pine boughs and ferns, thermal binoculars raised to his eyes. His body is perfectly still, tactical headset over one ear. The forest surrounds him — massive ancient trunks, deep shadow, the distant clearing of the mill barely visible through the trees. The mood is coiled, watchful, suspended. Vertical 9:16, wide shot with the figure small against the overwhelming forest, the predator waiting inside the cathedral of trees.
+
+PROMPT 2 - Sheriff Miller at the Trailhead
+Seed: none
+Exterior shot of a dirt trailhead parking area at early morning. A heavyset man in a tan sheriff's uniform and duty hat adjusts his belt, checking a manila folder under one arm. Beside him: a younger deputy checking his radio, and a third figure in a corporate security uniform consulting a tablet. Behind them, a white service van with a corporate logo is parked, rear doors open, a portable containment unit visible inside. Morning mist threads through the tree trunks. The mood is procedural, purposeful, oblivious. Vertical 9:16, medium wide exterior shot, the legitimate law-enforcement arm moving by the book toward a catastrophe.
+
+PROMPT 3 - Gonzales Arrives
+Seed: none
+Exterior wide shot of the mill clearing in morning light — Sequoias towering at the edges. Two black SUVs crunch slowly across the gravel, leaving parallel tire tracks. The lead vehicle's door opens and a heavyset man with a salt-and-pepper mustache steps out, hand resting on a holster. Behind him, four men fan out and scan the treeline with flat professional eyes. The mill building is visible behind them — weathered timber, shuttered windows. The scene has the stillness of a trap not yet sprung. Vertical 9:16, wide exterior shot, the arrival of the wrong kind of power in a place about to become a war zone.
+
+PROMPT 4 - Zheng Enters the Clearing
+Seed: none
+Exterior shot of the mill clearing from a low angle. A silver Mercedes S-Class glides to a stop, flanked by two black E-Class sedans. Six men in matching charcoal suits step out of the escort cars in perfect synchronisation, forming a moving diamond. At the centre — a man with silver-streaked hair, tailored dark coat, measured footsteps — walks without waiting, without greeting, jaw set. The Sequoias frame the scene like walls of a natural throne room. Vertical 9:16, low wide exterior shot, the choreography of absolute power arriving at the wrong address.

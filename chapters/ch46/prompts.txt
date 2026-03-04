@@ -1,0 +1,18 @@
+Chapter 46 - The Bait and the Switch
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Chief at the Canister
+Seed: none
+Interior medium shot — a heavyset man in corporate security gear leans against a worktable with a sardonic smile, arms crossed. Behind him: the silver cryo-canister, riddled with bullet holes, hissing nitrogen fog. The ruined mill floor surrounds him — shredded server racks, broken glass, scattered debris. He looks like a man who knew exactly how this would end. Vertical 9:16, medium interior shot, the knowing smile of the man holding the real information.
+
+PROMPT 2 - The Zip-Tied Switcher
+Seed: none
+Interior medium close shot — a man with scarred knuckles, wrists zip-tied behind his back, a split lip and a bruised jaw, staring at the floor. Around him: FBI agents, broken server racks, the leaking canister. His face is the face of a man who outsmarted himself completely. Vertical 9:16, medium interior close shot, the architect of the swap now inventory in someone else's scheme.
+
+PROMPT 3 - Paul's Exhausted Relief
+Seed: none
+Interior medium shot — a man with dark curly hair, a heavy medical wrap around his torso, leaning against a wall near the ruined server racks. His face shows the slow arrival of disbelief turning into profound relief. His hand drops from his ribs. He exhales for what feels like the first time. Vertical 9:16, medium interior shot, the weight of the Finnley legend finally lifting from one man's shoulders.
+
+PROMPT 4 - Chen and the Swiss Cheese Server
+Seed: none
+Interior close shot — a man with bandaged cheekbones and mischievous eyes pushes one finger through a bullet hole in a ruined GPU housing. Behind him: rows of shredded server racks glinting under harsh strip lights, daylight streaming through the bullet-punctured walls. His expression is entirely delighted. Vertical 9:16, interior close shot, the world's most expensive ventilation upgrade.

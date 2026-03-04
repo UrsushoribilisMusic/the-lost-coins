@@ -1,0 +1,8 @@
+STYLE 1 - Federal Breach (Military Tactical Electronic)
+Prompt: Military Tactical Electronic, 140 BPM, D Minor, Aggressive Kick Drum, Synth Alarm Pulse, Glitched Hi-Hat, No Vocal, The Breach Charges Going Off, The Timber Doors Exploding Inward, Three Factions Finding Each Other in the Smoke, The Spark That Started the Big Fire, The Battle Cry Drowned by the Ringing
+
+STYLE 2 - The Big Fire (Orchestral Action)
+Prompt: Orchestral Action Chaos, 160 BPM, E Minor, Full Brass Blast, Driving Strings, Military Snare Roll, Pounding Timpani, No Vocal, The Three-Front War, Muzzle Flash in the Mill, Gonzales in Rage, Zheng's Detail Forming the Wall, The FBI Closing In, The Canister at the Center of the Crossfire
+
+STYLE 3 - The Boot Prints (Americana Post-Battle)
+Prompt: Americana Post-Battle, 76 BPM, A Minor, Fingerpicked Guitar, Low Cello Pad, Dry Brush Snare, Weary Baritone Vocal, The Smoke Clears, Multiple Targets Down, He Left His Own People to Die, The Boot Prints Leading into the Trees, The War Over, the Chase Beginning

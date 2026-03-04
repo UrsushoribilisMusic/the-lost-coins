@@ -1,0 +1,18 @@
+Chapter 49 - The Public Record
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Hospital Waiting Room TV
+Seed: none
+Interior wide shot — a hospital waiting room, pale blue TV light casting long shadows on linoleum floors. Three people sit in a row of plastic chairs looking up at a wall-mounted screen. A breaking news banner scrolls at the bottom. Their faces are blank and exhausted. The screen is the only thing alive in the room. Vertical 9:16, wide interior shot, the survivors watching their own story become a news headline.
+
+PROMPT 2 - Zheng in Handcuffs on the News
+Seed: none
+Interior medium shot — a wall-mounted TV screen showing a helicopter feed: a silver-haired man in a torn dark coat, forest debris on his shoulders, being pushed into the back of a black armored transport. His face is bruised, his expression stripped of authority. The legend reduced to breaking news. Vertical 9:16, screen-within-frame medium shot, the fall of the man who wanted to own the future.
+
+PROMPT 3 - Agent Smith at the Podium
+Seed: none
+Exterior medium shot — a man in a dark suit and glasses stands at a podium surrounded by microphones, camera flashes strobing his exhausted face. He speaks with the measured cadence of a man closing a career-defining file. A sheriff's building is visible behind him, Sequoias beyond. Vertical 9:16, exterior medium shot at the press podium, the official end of the war.
+
+PROMPT 4 - Paul Leans Back Against the Wall
+Seed: none
+Interior medium close shot — a man with dark curly hair leans his head back against a hospital wall, eyes closed, a slight private smile at the corner of his mouth. Beside him: a woman's hand rests in his. The TV light shifts blue on his face. The only man who knows how far from a billion dollars they ended up — and how right that feels. Vertical 9:16, interior medium close shot, the quiet arrival of enough.

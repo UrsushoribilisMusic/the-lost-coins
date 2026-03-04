@@ -1,0 +1,8 @@
+STYLE 1 - All Units Hold (Military Surveillance Electronic)
+Prompt: Military Electronic Surveillance, 104 BPM, F Minor, Cold Synth Pulse, Tactical Radio Static Sample, Deep Kick Drum, Clipped Male Vocal Command, I Want Them in the Same Room, I Need the Conspiracy Charge to Stick, Two Hundred Yards from the Target, The Pine Boughs and the Waiting, Do Not Move Until I Give the Word, The Net Almost Closed
+
+STYLE 2 - Warrant in Hand (Americana Procedural)
+Prompt: Americana Procedural, 92 BPM, D Major, Acoustic Guitar Strum, Walking Bass, Brushed Snare, Weary Baritone Vocal, We Move in Quiet, We Serve the Papers, If They Give Us Lip We Zip-Tie Em, The Legitimate Law Meeting the Illegitimate World, The White Van and the Corporate Logo, Completely Oblivious
+
+STYLE 3 - Zheng's Arrival (Chinese Erhu Orchestral Power)
+Prompt: Chinese Erhu Orchestral Power, 116 BPM, A Minor, Erhu Solo Over Full String Orchestra, Taiko Drum Downbeat, Brass Swell on Arrival, No Vocal, The Silver Mercedes in the Sequoia Clearing, Six Men in Charcoal Suits Moving as One, The Diamond Formation of Absolute Control, The Man Who Walked Without Waiting, Lethal Greed in a Tailored Coat

@@ -1,0 +1,18 @@
+Chapter 48 - The Napa Connection
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Lena Alone in the Hospital Room
+Seed: none
+Interior medium shot — a woman with long blonde hair in a blue paper hospital gown, sitting on the edge of an exam table. One hand is pressed flat against her stomach. The room is clinical and empty, fluorescent light merciless and still. Her eyes are not shocked but calculating — doing math, reaching a conclusion she already knew. Vertical 9:16, still medium interior shot, the moment of reckoning in a white room.
+
+PROMPT 2 - Paul and Erica Walk In
+Seed: none
+Interior medium wide shot — a man with dark curly hair moves slowly through a hospital room doorway, one hand bracing against the frame, a heavy wrap around his torso. Beside him: a woman with long dark hair, her hand steadying his arm. They see the woman on the exam table and both stop. Three people in a small room. The air changes. Vertical 9:16, medium interior shot, the arrival of the inevitable conversation.
+
+PROMPT 3 - The Three of Them
+Seed: none
+Interior medium three-shot — three people in a hospital room: a blonde woman on an exam table, a man leaning against the wall, a dark-haired woman standing between them. Nobody is moving. Each face holds a different calculation. The fluorescent light is merciless and equal to all three. Vertical 9:16, tight medium interior three-shot, the triangle made permanent in a white room.
+
+PROMPT 4 - Chen in the Doorway
+Seed: none
+Interior medium shot from behind a man leaning in a doorway — his back to us, bandaged jaw visible in profile as he turns slightly. Through the gap: the hospital room with three people in frozen tableau. His shoulders are shaking with suppressed laughter he is clearly failing to contain. Vertical 9:16, interior medium doorway shot, the audience to the moment no one planned for.

@@ -1,0 +1,8 @@
+STYLE 1 - Into the Dark (Tactical Descent Cinematic)
+Prompt: Tactical Descent Cinematic, 88 BPM, F Minor, Slow Synth Pulse, Low String Pad, Single Snare Hit Every Four Bars, Tactical Radio Static Sample, Controlled Male Vocal, The Narrow Stairwell, The Damp Stone Walls, The Iron Door at the Bottom, The Scientists on the Dirt Floor, Every Step Toward the Truth
+
+STYLE 2 - She Stood There (Confrontation Folk Piano)
+Prompt: Confrontation Folk Piano, 80 BPM, D Minor, Solo Piano Sustain, Sparse Strings, Soft Female Vocal, The Slap in the Stone Room, You Watched Them Beat Him, You Traitor, She Didn't Defend Herself, She Stood There With Her Hand on Her Burning Face, The Reason You Are Still Breathing
+
+STYLE 3 - Pine Needles (Chase Conclusion Orchestral)
+Prompt: Chase Conclusion Orchestral, 104 BPM, A Minor, Descending Strings, Brass Release, Timpani Final Hit, No Vocal, The Yellow Probes Through the Morning Air, Fifty Thousand Volts, The Man Who Wanted to Own the Secret, Falling Into the Pine Needles, The Forest Indifferent to His Fall

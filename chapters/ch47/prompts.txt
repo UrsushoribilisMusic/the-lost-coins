@@ -1,0 +1,18 @@
+Chapter 47 - The New Growth
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Ambulance in the Clearing
+Seed: none
+Exterior wide shot — the mill clearing in early morning, blue and red emergency lights pulsing off the Sequoia trunks. Near the tree line: a white ambulance, rear doors open. A man with dark curly hair and a heavy wrap around his torso sits on the lowered gurney, a woman with long dark hair standing beside him. A paramedic works nearby. The ancient trees watch from the edge. Vertical 9:16, wide exterior shot, the survivors at the threshold between the battle and what comes next.
+
+PROMPT 2 - Erica Tells Him
+Seed: none
+Interior medium shot — inside the ambulance, warm amber light. A woman with long dark hair holds a man's hand in both of hers, looking at him steadily. His expression is frozen in open shock — jaw dropped, eyes wide, grip tightening on her hand. The world outside the ambulance doors doesn't exist. Vertical 9:16, warm interior medium shot, the moment two people discover the future has changed its shape entirely.
+
+PROMPT 3 - Paul Laughing Through the Pain
+Seed: none
+Interior close shot — a man with dark curly hair, ribs wrapped, pressing the back of a woman's hand to his lips, laughing with his eyes full. He looks like a man who has crossed a desert and just found water. Through the open rear ambulance doors: the forest, the lights, the mill. Vertical 9:16, warm close interior shot, the joy that arrives when the worst is finally behind you.
+
+PROMPT 4 - The Sequoias Above
+Seed: none
+Wide exterior upward shot — looking straight up at the towering canopy of ancient Sequoias. Their crowns catch the morning light, needles silver and gold against the pale sky. The trees fill the entire frame from base to crown. They have seen everything. They remember nothing. Vertical 9:16, upward wide exterior shot, the indifferent forest as witness to the rise and fall of every human plan.

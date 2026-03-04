@@ -1,0 +1,18 @@
+Post-Credits - The Long Sleep
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Corridor 4 at Alcor
+Seed: none
+Interior wide shot — a long, pristine white corridor in a cryonics facility. The lighting is cold, fluorescent, shadowless. Along one wall: massive stainless steel dewars polished to a mirror finish. A single figure walks away from us down the corridor — a heavyset man in a corporate security jacket, his footsteps the only sound in the vault. Vertical 9:16, interior wide rear shot, the keeper of the future walking the corridor of the long sleep.
+
+PROMPT 2 - Unit 001-H
+Seed: none
+Interior medium close shot — a massive stainless steel dewar, its surface pristine, unmarked except for a laser-etched serial number and a small digital interface pulsing with a soft, steady green light. A fine curl of condensation drifts from the valve. No labels. No names. Just the green pulse and the silence. Vertical 9:16, interior close shot, the real canister — no bullet holes, no yellow labels — the legend hidden in perfect silence.
+
+PROMPT 3 - The Chief Taps the Dewar
+Seed: none
+Interior medium close shot from the side — a heavyset man in a corporate security jacket stands before the stainless steel dewar. He raises one hand and places it gently against the cold surface, fingers spread. His expression is not triumphant but reverent — the quiet gesture of a man paying respect to someone who changed everything and asked for nothing. Vertical 9:16, interior side medium close shot, the keeper and the kept.
+
+PROMPT 4 - The Green Light in the Dark
+Seed: none
+Interior extreme close shot — just the small digital interface panel on Unit 001-H. A slow, steady green pulse. Cold steel around it. Absolute silence. The light blinks once. Twice. The rhythm of something still waiting. Vertical 9:16, extreme close interior shot, the green heartbeat in the vault, the last image of the story.

@@ -1,0 +1,8 @@
+STYLE 1 - The Decoy (Heist Reveal Jazz Noir)
+Prompt: Heist Jazz Noir, 96 BPM, G Minor, Upright Bass Pluck, Muted Trumpet, Dry Brushed Snare, Dry Spoken Male Vocal, We Knew They Were Planning a Swap, We Let Them Think They Succeeded, What Was in That Van Was Never a Legend, The Double Shell Game, The Smartest Men in the Room Stealing Their Own Trash
+
+STYLE 2 - Sister Maria (Dark Irony Orchestral)
+Prompt: Dark Irony Orchestral, 84 BPM, E Minor, Low Strings Sustained, Solo Oboe, Snare Roll Resolved, Dry Male Narrator Vocal, She Was a Mob Bookkeeper Who Got Caught Skimming, Gonzales Had Her Stored for a Rainy Day, Zheng Started a War for a File Nobody Wanted, The Legend He Hunted Was Never in That Canister
+
+STYLE 3 - Optimal Airflow (Light Relief Cinematic Pop)
+Prompt: Light Relief Cinematic Pop, 108 BPM, C Major, Bright Guitar Strum, Walking Bass, Hi-Hat Shuffle, Cheerful Male Vocal Half-Spoken, The Servers Are Swiss Cheese Now, Modern Art I Call It, The High-Speed Processing of Lead, At Least the Ventilation Is Finally Perfect, Everyone Alive Who Deserves to Be

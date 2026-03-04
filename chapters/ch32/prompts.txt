@@ -1,0 +1,18 @@
+Chapter 32 - The Room in the Clouds
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Fairmont Hotel Corridor at Night
+Seed: none
+Wide shot of a luxurious hotel corridor at night, empty except for a woman walking away from camera toward a room at the far end. The corridor is opulent: dark burgundy carpet with gold trim, warm sconce lighting casting amber pools along the walls, heavy mahogany doors at even intervals. The woman has long blonde hair in a loose ponytail, blue eyes, athletic build, wearing a charcoal blazer over dark jeans and low boots; she carries a small overnight bag. The corridor feels simultaneously grand and suffocating. Vertical 9:16, slow tracking shot following from behind, shallow depth of field, the hotel as elegant cage.
+
+PROMPT 2 - Lena at the Window, Phone to Ear
+Seed: none
+Medium shot from behind a woman with long blonde hair in a loose ponytail, blue eyes, athletic build, wearing a charcoal blazer, standing at a floor-to-ceiling hotel suite window at night. Outside, San Francisco's city lights sparkle—streets and bridges lit in amber, white, and gold below a dark sky. She holds a phone to her ear with one hand, the other flat against the glass. Her posture is rigid with news she doesn't want to receive. The room behind her is dim, only the city glow and a small bedside lamp illuminating the space. Vertical 9:16, static shot from directly behind, window dominates upper frame, vertical city lights and dark sky.
+
+PROMPT 3 - The Man in the Armchair
+Seed: none
+Low-angle medium shot looking toward the corner of a dim hotel suite. A man in a rumpled gray suit sits in a leather armchair in the shadow, mostly in darkness. Only the lower half of his face and his hands are visible in the ambient light from heavy half-drawn curtains. He holds a police badge in one hand, the metallic surface catching the faint light. He is still and patient as a stone. The room around him is in deep shadow. Vertical 9:16, low angle looking up toward the shadowed chair, the reveal of a man who was already there, quiet menace and authority.
+
+PROMPT 4 - Three People in the Suite
+Seed: none
+Wide interior shot of a hotel suite at night—a woman with long blonde hair, blue eyes, charcoal blazer stands near the window, facing two men: one in a rumpled gray suit positioned close to her, the other in a dark blue suit by the bathroom doorway blocking exit. The curtains are partially open, city lights bleeding in from outside. Tension is visible in every posture. The woman is the focal point—between the men, between choices. Sparse ambient lighting from outside and one dim bedside lamp. Vertical 9:16, wide shot capturing all three in frame, heavy dramatic atmosphere, triangle of power.

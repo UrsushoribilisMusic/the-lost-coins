@@ -1,0 +1,32 @@
+Chapter 13 - The Swiss Connection
+========================================
+
+Inspector Eddie Pinto didn’t wait for the morning shift in Hong Kong to start. The trail was too hot, and the money was sitting still in a way that felt like an invitation. He patched through to the Interpol secure line, his fingers drumming a restless rhythm on his desk.
+
+By the time the call bounced from Lyon to the federal offices in Bern, he was speaking to Captain Meier of the Fedpol Cyber Division.
+
+“Inspector Pinto,” Meier’s voice was precise, clipped, and devoid of the humidity of Hong Kong. “You’re calling about the 1.5 BTC bounce. My team flagged the incoming node ten minutes ago.”
+
+“It’s not just a bounce, Captain,” Pinto said, leaning into his mic. “That wallet is tied to a series of arson-robberies in Kowloon. We’ve been chasing the puppet master, a shadow we call Mr. Z, for eighteen months. He usually scrubs his tracks through five different mixers. This time? He sent it straight to your backyard.”
+
+“Zug,” Meier noted. The sound of typing echoed over the line. “The heart of the Crypto Valley. It’s a haystack made entirely of needles, Inspector. Why do you think this is significant?”
+
+“Because it’s a direct payout,” Pinto insisted. “Z doesn’t get sloppy. If he’s sending clean coins to a static wallet, he’s not laundering. He’s paying a contractor. We believe the owner of that Swiss wallet is an accomplice—likely a technical specialist or a broker.”
+
+There was a pause on the Swiss end. Pinto could almost see Meier weighing the diplomatic paperwork against the potential collar.
+
+“You don’t think this is your ‘Mr. Z’?” Meier asked.
+
+“No. Z is a ghost. He doesn’t hold wallets in his own name, and he certainly doesn’t keep them on a phone that pings Swiss cell towers,” Pinto said. “The person in Zug is a middleman. A bridge. If we move too fast and freeze the account, Z vanishes back into the fog. If we watch them, they lead us to the kingpin.”
+
+“Understood,” Meier replied. “I will bypass the standard freeze request for now. We will maintain ‘Passive Surveillance.’ I’m pulling the KYC (Know Your Customer) data from the exchange tied to that wallet address now. I’ll have a name, a verified ID, and a GPS history of the device within the hour.”
+
+“And the bank accounts?”
+
+“Already in motion,” Meier said. “We will monitor all fiat outflows. If this ‘accomplice’ tries to move that Bitcoin into Swiss Francs or uses it to pay for a luxury hotel, we’ll see the transaction before the receipt is even printed.”
+
+Pinto leaned back, a grim smile touching his face. “Be careful, Captain. These people are professionals. If they catch a whiff of a state-level intercept, they’ll burn the evidence and everyone attached to it.”
+
+“This is Switzerland, Inspector,” Meier said, his tone dry. “We are very good at being invisible. I’ll send you the dossier on your middleman as soon as the facial recognition clears.”
+
+Pinto hung up. The digital net was cast. He looked at the map of Lake Lucerne on his screen. Somewhere in those mountains, someone was celebrating a payday, completely unaware that their “clean” Bitcoin was currently shrieking their location to two different hemispheres

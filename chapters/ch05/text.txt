@@ -1,0 +1,28 @@
+Chapter 5 - Recovering the Keys
+========================================
+
+The clock on the wall had long since ticked past midnight, but the air in the room was thick with the heat of overclocked processors. Paul sat hunched over his monitors, his face washed in the sickly blue glow of hex-code.
+
+The door creaked open. Erica leaned against the frame, a pink silk nightgown draped over her frame, a mug of tea casting a small plume of steam into the dim light. She looked soft, a sharp contrast to the jagged lines of data on Paul’s screen.
+
+“Any luck?” she asked, her voice raspy with sleep.
+
+“You won’t believe this,” Paul whispered, his fingers flying across the mechanical keyboard. “These guys... they weren’t just careless. They were paranoid. I found the keys, but they’re sharded.”
+
+He turned to her and saw the question in her eyes.  He had a tendency to assume everyone knew as much  about crypto as he did. He started to explain:
+
+He saw the confusion cloud her eyes and pivoted. “It’s called Shamir’s Secret Sharing. They didn’t store the key as one string. They broke it into pieces—digital horcruxes. One shard is useless. Even two might be a dead end.”
+
+“So you’re stuck?”
+
+“No,” Paul’s eyes widened, reflecting the scrolling text. “I’m the opposite of stuck. If I can find the threshold—the minimum number of shards—I don’t need to waste our precious quantum credits on a brute-force attack. I can use Lagrange Interpolation to mathematically ‘solve’ for the original secret. It’s not a guess; it’s a certainty.”
+
+He pointed to three distinct blocks of encrypted data. “I’ve pulled two segments so far. If the threshold was set to two, I’m holding the skeleton key. If it was three...” He trailed off, the gamble hanging in the air.
+
+Erica stepped closer, placing a hand on his shoulder. The touch was light, but Paul was already vibrating with a different kind of energy. “Well, don’t be up all night chasing ghosts,” she murmured, leaning down to press a kiss to his temple. “I’ll be waiting for you in bed. Try to remember what the real world feels like.”
+
+She turned and drifted out, the hem of her nightgown fluttering.
+
+Paul didn’t look back. He was already gone, deep into the architecture of the drive. He felt like a hound that had finally caught a scent of blood on the wind. The hunt was no longer theoretical. He was a key-hunter, and the prey was finally cornered in the code.
+
+Chapter 6

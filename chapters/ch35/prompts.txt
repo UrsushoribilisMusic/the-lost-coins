@@ -1,0 +1,18 @@
+Chapter 35 - The Last Supper
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Pizza Boxes in the Lab
+Seed: none
+Wide shot of the warehouse annex at night, warm lamplight contrasting with the cold industrial surroundings. A scarred wooden table is covered in open pizza boxes, paper plates, and plastic cups. Around the table, seated figures are visible from behind or in profile: two men on equipment crates, two women leaning on the table edge. The room has corrugated metal walls, exposed timber beams, and the distant hum of server equipment visible through an open doorway to the main warehouse, where blue and green LEDs blink steadily. The incongruity of pizza and millions in equipment is striking. Vertical 9:16, wide warm shot, amber lamp creating central glow against cool industrial dark, human warmth in inhuman surroundings.
+
+PROMPT 2 - Paul and Chen on Equipment Crates
+Seed: none
+Medium shot from slightly behind and to the side of two men sitting on heavy equipment crates, sharing a pizza. The man on the left is lean with dark disheveled curly hair and light stubble, wearing a dark hoodie, laughing as he looks at a phone screen held out by the man on the right—shorter, wearing thick glasses and a technical vest, also grinning. Between them: an open pizza box on a crate lid. Both seen in three-quarter view, the warm lamplight of the annex catching them in genuine enjoyment. Vertical 9:16, medium relaxed shot, the unlikely friendship that has formed across cultures.
+
+PROMPT 3 - Erica Drawing on a Napkin
+Seed: none
+Close-up three-quarter shot from behind a woman with long dark hair, brown eyes, wearing a white lab coat, leaning over the table using a marker to draw on a paper napkin. Two engineers beside her lean in with bright, engaged expressions, following her diagram. The napkin shows a simplified diagram of neural pathways. A pizza slice sits untouched on her plate beside it. The warm lamplight illuminates the napkin drawing clearly. Vertical 9:16, close shot over her shoulder, the drawing the focal point, the strange beauty of science explained on a pizza napkin.
+
+PROMPT 4 - Marco Steps From the Shadows
+Seed: none
+Wide shot of the lit annex table from a low angle, the warm lamplight circle of people suddenly interrupted. From the right edge of frame, a large man in a dark canvas jacket and heavy work boots steps from the shadow of the main warehouse into the lamplight. He is heavily built, broad-shouldered, his face in partial shadow, posture of professional patience. The people at the table—visible as backs and profiles—go still. The contrast between the warm social scene and the sudden weight of his presence is immediate. Vertical 9:16, wide low-angle shot, Marco entering from shadow, cinematic and ominous interruption of the false peace.

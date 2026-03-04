@@ -1,0 +1,36 @@
+Chapter 7 - Handing the Keys
+========================================
+
+Paul stumbled into the bedroom, the smell of ozone and burnt dust clinging to his skin. The digital ghost was finally in a jar—a 64-character string saved to a clean, encrypted drive.
+
+Erica stirred as he sat heavily on the edge of the mattress. “Paul?” her voice was thick with sleep. “Did you get it?”
+
+“The polynomial solved,” he rasped, his eyes bloodshot. “It’s real. 9.08 Bitcoin. I’ve put the key on the silver stick.” He handed it to her, his hand trembling slightly. “I can’t... I can’t even see straight, Erica. You have to meet Lena. I’m done.”
+
+Before she could answer, Paul collapsed face-first onto the pillows, his breathing turning into a heavy, instantaneous snore. He was out.
+
+The morning sun hit the sleek, glass-and-steel facade of the university in Zug with a surgical glare. Lena walked through the lobby, her heels echoing against the polished stone. She wasn’t meeting a hacker today; she was meeting a woman who made her pulse erratic.
+
+She found the lab on the third floor. Through the glass partition, she saw Erica—not in yoga pants, but in a crisp white lab coat that made her look like a high-priestess of some future religion.
+
+“Paul’s a zombie,” Erica said by way of greeting, sliding the glass door open. “He crashed the second he handed this to me.” She held up the silver USB drive.
+
+“As long as the data is on there, he can sleep for a week,” Lena said. She felt the “funk” from the cafe return instantly, a magnetic pull toward the woman in the white coat.
+
+Lena pulled a slim laptop from her leather tote and set it on a lab bench. “I need to verify the string before I alert my client.”
+
+She inserted the drive. The laptop fan whirred as she opened the text file. There it was: the hexadecimal string, the literal DNA of a fortune. Lena’s fingers flew across the keys. She didn’t just verify it; she encrypted the string into an outgoing mail.
+
+As the progress bar for the upload crawled toward 100%, her phone buzzed.
+
+[08:42 AM] Mr. Zheng:The wallet has been swept. Clean work, Lena. Tell your contact the ‘Whale’ is next.
+
+“Everything okay?” Erica asked, leaning over Lena’s shoulder to look at the screen. The scent of her—clean, clinical, yet warm—distracted Lena for a heartbeat.
+
+“Better than okay,” Lena said, snapping the laptop shut. “My client is satisfied. The ‘test’ is passed.” She looked around the lab, at the strange, spindly machines and the jars of synthetic polymers. “You said you do memory retrieval. This place looks more like a spacecraft than a doctor’s office.”
+
+Erica’s eyes lit up. “It’s a bit of both. We’re mapping the dark matter of the human brain.” She looked at the clock on the wall. “Look, Paul is out for the count and I’ve got an hour before my next scan. Coffee? The university cafeteria is actually decent if you can handle the student energy.”
+
+“I think I can handle it,” Lena said, her voice dropping a half-octave.
+
+As they walked toward the cafeteria, Lena felt the weight of the phone in her pocket. Zheng wanted the next wallet—the big one. He wanted her to keep using Paul, to keep pushing until the job was done. But as she watched Erica navigate the hallway, Lena realized she wasn’t just working a lead anymore. She was walking deeper into a trap of her own making, and for the first time in her life, she didn’t want to find the way out.

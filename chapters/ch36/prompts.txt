@@ -1,0 +1,18 @@
+Chapter 36 - The Morning After
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Warehouse Bathroom at Dawn
+Seed: none
+Close shot from behind and to the side of a woman with long blonde hair in a loose ponytail, blue eyes, wearing a rumpled charcoal blazer, hunched over a small industrial sink in a cramped warehouse bathroom. Cold gray light from a single frosted window at dawn. The walls are corrugated metal, the sink old porcelain. She grips the sides of the sink, head down, posture of physical distress. A bare bulb flickers above. The mirror above the sink shows only shadow. Vertical 9:16, tight three-quarter shot from behind and above, cold dawn light, the physical cost of a double life.
+
+PROMPT 2 - Erica Leaning Against the Metal Wall
+Seed: none
+Medium shot from the side of a woman with long dark hair, brown eyes, slender build, wearing a white lab coat that is slightly disheveled, leaning back against a corrugated metal wall in the annex corridor. Her arms are crossed, eyes slightly closed, head tilted back—a person in the process of recovering from physical discomfort. Cold dawn light comes from a small window above. Her expression is dry and pained but also wryly amused. Vertical 9:16, medium static side shot, the vulnerability and determination of a scientist who will not stop.
+
+PROMPT 3 - Paul at the Server Rack, Red-Eyed Victory
+Seed: none
+Medium shot from behind and slightly to the side of a lean man with dark disheveled curly hair, light stubble, wearing a dark hoodie, seated at a terminal in front of a tall server rack. His eyes are visibly red-rimmed and exhausted but his posture radiates energy—back straight, hands flying across keys. Rows of green LEDs blink in steady rhythm across the rack behind him. Chen stands to his right, leaning over his shoulder with a gleeful expression. The warehouse morning light is beginning to filter in from above, cold and gray. Vertical 9:16, medium shot from behind and side, green LED glow dominant, the joy of a system that finally works.
+
+PROMPT 4 - Erica at the Array, System Ready
+Seed: none
+Three-quarter back shot of a woman with long dark hair, brown eyes, wearing a white lab coat, standing before the massive silver synaptic array in the warehouse interior. She taps commands into a tablet, the array's blue internal lighting illuminating her from the front. The screens beside her show stable waveforms: all green, all nominal. Her posture has shifted from exhaustion to clinical authority. The warehouse around her is large and cold, the corrugated metal walls and industrial lighting framing her against the gleaming machine. Vertical 9:16, wide three-quarter back shot, the woman and the machine, the system ready and waiting.

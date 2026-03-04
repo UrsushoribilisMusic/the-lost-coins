@@ -1,0 +1,28 @@
+Chapter 19 - The Weak Link
+========================================
+
+The digital net was no longer just a theory. In the sterile, glass-walled operations center of the Fedpol in Bern, Captain Meier stood over a technician’s shoulder, watching three names glow in amber on a flight manifest.
+
+He tapped a key, and the data hissed across the secure line to Hong Kong.
+
+“I have them, Eddie,” Meier said, his voice tight. “The wallet owner isLena Vance. Former high-fashion model, currently acting as a high-end ‘fixer’ in the Crypto Valley. She just booked three first-class tickets on Swiss Air. Zurich to San Francisco. Flight LX38. Departing in four days.”
+
+On the other end of the line, Inspector Pinto let out a sharp exhale. “San Francisco? That’s not a vacation spot for Zheng’s people. That’s a staging ground. Who are the other two?”
+
+“Paul Arndt, CEO of a struggling quantum startup, andErica Voss, a senior researcher in neuro-mapping at the University of Zug,” Meier read from the screen. “Clean records. No priors. They look like legitimate tech talent, but they’re traveling on Vance’s dime.”
+
+“Zheng is moving the chess pieces,” Pinto muttered. “Listen, Meier, if they hit US soil, they’re out of your jurisdiction and mine. Once they disappear into California, we’re blind. I’ll have to pull in the FBI’s Cyber Division to keep eyes on them, but the Bureau doesn’t like ‘passive surveillance.’ They’ll want to kick doors in.”
+
+“You want me to stop them at the gate?” Meier asked.
+
+“No,” Pinto said, his voice dropping an octave. “We don’t have enough for a warrant that sticks, and Zheng would just find another crew. We need to compromise them. Send me the full profiles—everything. Financials, family, secrets, debts. I need to know how to ‘flip’ them.”
+
+“You’re looking for a weak link?”
+
+“I’m looking for the fracture point,” Pinto corrected. “Vance is a professional; she’s harder to crack. But the hacker and the scientist? They’re civilians. They think they’re on a prestigious research trip. I want to know what they’re afraid of. If I can get to one of them before they leave the terminal, I can turn them into a walking wire before they ever meet Zheng’s people in the States.”
+
+“I’ll send the ‘deep-dive’ dossiers now,” Meier said. “But be fast, Eddie. In ninety-six hours, they’re the FBI’s problem. And if Zheng realizes they’ve been compromised, those three won’t just be out of our jurisdiction—they’ll be at the bottom of the Pacific.”
+
+Pinto watched his screen as the files began to download. The faces of Paul and Erica appeared—smiling, successful, and completely oblivious to the fact that their “dream trip” to the Sequoias was being monitored by two of the world’s most powerful police forces.
+
+“Let’s see what makes you blink, Paul,” Pinto whispered, opening the file on the hacker’s mounting debts.

@@ -1,0 +1,18 @@
+Chapter 38 - The Mismatch
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Van Arrives at Pre-Dawn
+Seed: none
+Wide exterior shot of the logging warehouse at pre-dawn, the sky a deep bruised purple filtered through dense redwood canopy. A plain white utility van backs slowly toward the open warehouse doors, reverse lights casting red on wet gravel. No sirens, no drama—just the hushed, efficient choreography of the transfer. Two silhouetted figures guide the van back with minimal hand signals. The ancient trees tower over the scene, indifferent. The warehouse interior is just visible through the open doors—cold blue light within. Vertical 9:16, wide static shot, pre-dawn purple light, the unassuming arrival of something momentous.
+
+PROMPT 2 - The Cryo-Canister Connected
+Seed: none
+Wide interior shot of the warehouse, centered on a gleaming silver-alloy cylindrical cryo-canister now connected to the synaptic array by a network of cables, cooling lines, and sensor leads. Blue and white LED indicator strips pulse steadily along its surface. Monitoring cables snake from the canister to the server rack on the right, where green LEDs blink in sync. The canister is the focal point: pristine, silent, impossibly advanced. The warehouse floor around it has been cleared, the space treated as a sterile field. Two human figures stand at the console to one side, barely visible. Vertical 9:16, wide shot with the canister centered and dominant, clinical blue glow, the object that started everything.
+
+PROMPT 3 - Erica and Paul at the Console
+Seed: none
+Over-the-shoulder shot from behind two figures standing at a data console. The woman on the left—long dark hair, brown eyes, white lab coat—leans toward the screens with intense focus, one hand on the console edge. The man on the right—dark disheveled curly hair, dark hoodie—gestures at the data on a secondary monitor, his expression shifting from focused to alarmed. The monitors display cascading blue waveforms that are jagged and fragmented rather than smooth. The warehouse surroundings are in shadow, only the monitor glow illuminating them from the front. Vertical 9:16, tight over-the-shoulder shot from behind, the data on screen driving the drama.
+
+PROMPT 4 - Lena Alone in the Storage Room
+Seed: none
+Close shot from behind and to the side of a woman with long blonde hair in a loose ponytail, blue eyes, wearing a charcoal blazer, standing alone in a small dark windowless storage room. She holds her phone close to her lips, the screen glowing blue in the near-total dark. Her other hand covers her mouth. The room around her is rough walls and stacked industrial containers in silhouette. No sound—only the expression of someone who has just been handed the key to everything, and the terror of what comes next. Vertical 9:16, tight close shot in extreme darkness, phone glow only light, the pivotal whisper that starts the final act.

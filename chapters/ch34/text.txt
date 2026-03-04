@@ -1,0 +1,35 @@
+Chapter 34 - The Language of Logic
+
+The redwoods outside the warehouse act as a natural sound baffle, trapping the humid air and the low industrial thrum of the cooling units. Inside, the intermission of Napa is officially dead. The next three days are a blur of silver-shielded cables, cold-start sequences, and the relentless smell of ozone.
+
+Paul is in his element, crouched on the concrete floor amidst a sea of servers. He's working alongside one of the Chinese team—a man named Chen who wears thick glasses and handles fiber-optic cables with the delicacy of a watchmaker.
+
+"The latency on the third node is spiking," Paul mutters, tapping furiously at his laptop. "It's like the handshake is failing every forty milliseconds. Chen, you seeing the packet loss?"
+
+Chen leans over, squinting at the screen. He mumbles in rapid Mandarin, then tries to translate, his brow furrowed. "Protocol... is... bàozhà... like... big fire?" He makes an explosion gesture with his hands.
+
+Paul stares at him for a second, then starts to laugh. "Big fire? You mean it's bottlenecking? The throughput is too high for the bus?"
+
+Chen nods vigorously. "Yes! Big fire in small pipe!"
+
+Paul grins, sliding his laptop over. "Okay, let's widen the pipe. We'll re-route the telemetry through the secondary bus." They bump fists—a clumsy, cross-cultural moment of victory—and dive back into the rack. In the world of binary, they don't need a translator.
+
+Across the warehouse, Erica is commanding the annex like a surgical theater. She stops, looking at a list on her tablet, and turns to Lena. "We're short on high-grade saline and specialized heparin. I need a fresh supply of anticoagulants—the quantities they brought won't sustain the mapping process."
+
+"The nearest medical supply won't be in the forest," Lena says. "I'll head into the nearest town. An hour out."
+
+"Then go," Erica says, already turning back to a monitor.
+
+Lena heads for the heavy sliding doors. A shadow blocks her path: one of Gonzales's men, broad-shouldered, canvas jacket. He jingles a set of keys and tilts his head toward the SUV outside.
+
+"The boss says you don't go anywhere alone. I'm your shadow."
+
+"Fine," Lena says. "I need to use the restroom first."
+
+She slips into the small bathroom in the annex, locks the door, turns on the faucet. She pulls out her phone and taps the YouTube icon.
+
+"Zheng is not here," she whispers. "Only engineers and Gonzales's crew. I'm heading to town for medical supplies. I have a tail."
+
+Special Agent Vance's voice settles into her jaw. "Copy that, Lena. Your GPS burst just gave us the lab location. Get the supplies, get back, stay calm. We're moving into position now."
+
+Lena taps the phone off, splashes cold water on her face, and walks out to meet her shadow.

@@ -1,0 +1,18 @@
+Chapter 31 - The Last Mile
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Bay Area Freeway at Dusk
+Seed: none
+Exterior cinematic shot from behind and above a black sedan moving along a Bay Area freeway at dusk, surrounded by light traffic. The highway curves gently through low hills, the sky a deep blue-purple with the last remnants of orange sunset on the horizon. The Golden Gate Bridge or Bay Bridge lights are faintly visible in the far distance. The car's taillights glow red, steady and smooth. The road ahead is clear, the mood deceptively calm. Vertical 9:16, slow aerial tracking shot from behind, wide angle, cinematic and driving, the open road as false freedom.
+
+PROMPT 2 - Inside the Car, Three Passengers
+Seed: none
+Interior shot from behind the rear seat of a sedan, looking forward past the headrests of the front seats. The driver—a woman with long blonde hair in a loose ponytail, blue eyes, wearing a charcoal blazer—keeps her eyes on the road, hands at ten and two. In the front passenger seat, a lean man with dark disheveled hair and a dark sweater dozes lightly against the window. In the back seat edge, the arm and profile of a dark-haired woman are visible. Bay Area dusk light comes through the windshield. Vertical 9:16, intimate interior shot from behind, shallow depth of field with driver sharp, the quiet before the storm.
+
+PROMPT 3 - Caltrain Station Drop-Off
+Seed: none
+Exterior wide shot of a Caltrain commuter station platform at dusk, concrete and steel. A black sedan is pulled up to the curb at the station entrance. Seen from behind the car, the passenger doors are open and a lean man with dark disheveled curly hair in a dark sweater pulls a rolling bag from the trunk. A woman with long dark hair, slender build in a dark jacket, stands a half-step away, bag over her shoulder. The station is semi-deserted. Platform lights flicker on as darkness falls. Vertical 9:16, wide static shot from behind the car, dusk lighting, mundane setting for a profound threshold crossing.
+
+PROMPT 4 - The Silver Tail
+Seed: none
+Interior close shot from behind the driver's head and shoulders—a woman with long blonde hair in a loose ponytail, blue eyes, alone in the car now—as she looks into the rearview mirror. The mirror reflection shows a silver sedan three cars back, steady and patient in the traffic stream. Her hands remain still on the wheel. The rearview mirror fills a significant portion of the frame, with the reflected silver car sharp and centred in it. Evening street lights are beginning to come on. Vertical 9:16, tight over-the-shoulder shot, mirror reflection as the dramatic focal point, dread creeping in from behind.

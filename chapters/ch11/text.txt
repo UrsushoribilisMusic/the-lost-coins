@@ -1,0 +1,34 @@
+Chapter 11 - The Digital Trace
+========================================
+
+The air conditioning in the Hong Kong Police Headquarters hummed with a clinical, aggressive chill, but it did nothing to cool the frustration in Inspector Eddie Pinto’s chest. His desk was a fortress of monitors, each one displaying a different slice of the city’s criminal underbelly.
+
+A sharp, staccato chime pierced the quiet of the Cyber Crimes unit.
+
+Pinto sat up, his eyes narrowing as a red flag flared on his primary screen. AChainalysisalert.
+
+“Finally,” he whispered.
+
+Three months ago, a luxury apartment in Kowloon had been torched. The arson was professional, designed to erase a high-stakes robbery. The victim had claimed a loss of nearly ten Bitcoin, stored on a physical drive that had supposedly melted in the heat.
+
+The coins had been dormant, “dead” addresses in the eyes of the blockchain—until twenty minutes ago.
+
+“The fire-sale coins are moving,” Pinto called out to his sergeant.
+
+He watched the transaction tree bloom across the screen. The 9.08 BTC didn’t just move; it was shoved through a series of “mixing” services designed to obfuscate its origin. But the movers were overconfident. They were using a known cluster of wallets tied to a shadow operative the HKPF only knew asMr. Z.
+
+“They’re hitting the laundering pipes,” the sergeant said, leaning over Pinto’s shoulder. “Zheng’s people. They’ll have it split into a thousand micro-transactions by dawn.”
+
+“Wait,” Pinto said, pointing to a stray branch of the digital tree. “Look at the outflow. They just peeled off nearly one-and-a-half Bitcoin. It didn’t go into the mixer.”
+
+“Where did it go?”
+
+Pinto tapped his keyboard, tracing the IP metadata attached to the receiving node. His eyes widened. “It went straight to a retail wallet. No tumble, no wash. Just a clean transfer to a destination in... Switzerland.”
+
+“Switzerland? That’s a rookie mistake for someone like Z.”
+
+“Or it’s a direct payment,” Pinto countered. He leaned back, his mind already spinning. “Z doesn’t make mistakes. If he sent 1.5 BTC—nearly a hundred thousand dollars—to a static wallet in the Swiss ‘Crypto Valley’ and left it sitting there, he’s paying for a specialized service. He’s not laundering it. He’sinvestingit.”
+
+Pinto pulled up a map of the Zug district, the red dot of the wallet location pulsing like a heartbeat.
+
+“Alert the Swiss Federal Police. Tell them we have a hot lead on a Zheng-linked payout,” Pinto ordered, his voice tight with a new kind of energy. “I don’t know who’s on the other end of that wallet, but they just became the most important person in this investigation. They just accepted blood money from Hong Kong, and they didn’t even bother to wipe the fingerprints off.”

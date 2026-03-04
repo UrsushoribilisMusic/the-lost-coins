@@ -1,0 +1,36 @@
+Chapter 8 - The Alcor Gambit
+========================================
+
+The office was a vacuum of silence perched high above the smog of Macau. Mr. Zheng sat behind a desk of solid obsidian, watching a digital candle flicker on his monitor. He didn’t look up when the encrypted satellite link hissed to life.
+
+“You’re late,Speedy,” Zheng said.
+
+A raspy laugh echoed through the speakers. On the screen, the man known as Mr. Gonzales—a moniker he leaned into with a dark, ironic flair—was silhouetted against the harsh Mexican sun.
+
+“Patience, my friend. Good intelligence doesn’t run as fast as my nickname suggests,” Gonzales teased. “I saw the sweep of the 9 BTC. A nice appetizer. But are you ready for the main course? Because I’ve found the Holy Grail.”
+
+Zheng leaned forward. “I’m listening.”
+
+“We’ve been looking for active wallets. That’s our mistake,” Gonzales said, his tone shifting to a low, reverent hum. “We should have been looking for the dead. Do you know who Hal Finney was?”
+
+“The first person to receive a Bitcoin transaction from Satoshi Nakamoto,” Zheng replied instantly. “He died in 2014. ALS.”
+
+“Precisely. And he didn’t just die, Zheng. He was cryopreserved. He’s sitting in a vat of liquid nitrogen, frozen at -196°C. His wallet? It’s legendary. Thousands of ‘virgin’ coins that have never moved since the early days. Billions of dollars, locked behind a private key that went into the freezer with him.”
+
+Technical Note: Alcor Life Extension Foundation:A real-world non-profit organization based in Arizona, USA, that specializes in cryonics. Cryonics is the practice of preserving human remains (either the whole body or just the head, known as ‘neurosuspension’) at extremely low temperatures—specifically -196°C in liquid nitrogen.The goal is to keep the brain’s “connectome”—the map of its neural connections—intact until future technology can theoretically revive the person or “upload” their consciousness. Hal Finney, the legendary cryptographer and recipient of the first Bitcoin transaction, was legally deceased in 2014 and is currently cryopreserved at Alcor.
+
+Technical Note: Alcor Life Extension Foundation:A real-world non-profit organization based in Arizona, USA, that specializes in cryonics. Cryonics is the practice of preserving human remains (either the whole body or just the head, known as ‘neurosuspension’) at extremely low temperatures—specifically -196°C in liquid nitrogen.
+
+The goal is to keep the brain’s “connectome”—the map of its neural connections—intact until future technology can theoretically revive the person or “upload” their consciousness. Hal Finney, the legendary cryptographer and recipient of the first Bitcoin transaction, was legally deceased in 2014 and is currently cryopreserved at Alcor.
+
+Zheng’s eyes narrowed. “If the key is in his head, it’s gone. Ice crystals destroy the neural pathways. You’re talking about grave robbing for a piece of useless meat.”
+
+“Not anymore,” Gonzales countered. “My sources tell me the preservation was top-tier. The ‘Connectome’ is intact. I know exactly where the body is held, and more importantly, I know it can be read. You don’t need a hacker, Zheng. You need a ghost-reader. You need that Neuralink-style tech to interface with a frozen hippocampus.”
+
+Zheng’s mind flashed to Lena’s report.Erica. The neuroscientist. Memory retrieval.
+
+“The tech exists,” Zheng whispered, more to himself than to Gonzales. “But it’s experimental. It’s for the living, for treating trauma.”
+
+“Then adapt it,” Gonzales spat. “The Mexican mountains are beautiful this time of year, but I’d rather be sitting on a beach in the Cayman Islands with ten thousand Bitcoin. Find a way to plug into the ice, or I find someone else who can.”
+
+The screen went black.

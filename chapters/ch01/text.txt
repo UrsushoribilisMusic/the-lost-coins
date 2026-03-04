@@ -1,0 +1,28 @@
+Chapter 1 - Meeting the startup
+========================================
+
+Lena’s heels clicked a frantic rhythm against the convention center floor, a sharp contrast to the dull roar of a thousand desperate entrepreneurs. Her phone buzzed—a third missed call from her boss. He didn’t send “follow-up” emails; he sent pink slips. She spotted the booth with the young man whom she had seen giving the presentation.
+
+Paul sat behind a laminate desk, looking less like a CEO and more like a man awaiting a verdict. He was staring at a single name on his digital roster:Lena Vance.If this meeting flopped, he’d be filing for bankruptcy by Friday.
+
+“Paul,” she said, skipping the ‘hello.’ She dropped a heavy, encrypted tablet onto the desk. “I saw your keynote. You claimed your algorithm can reconstruct keys from partial fragments using entanglement-assisted searches.”
+
+Paul straightened, his professional mask slipping on. “It’s not a claim. It’s math. But the hardware overhead is—”
+
+“I don’t care about the overhead,” Lena cut him off. She leaned in, lowering her voice. “We have a recovered drive. Forty-eight bits of a private key are intact. The rest is digital ash.”
+
+Paul’s heart hammered. “Forty-eight bits? That leaves nearly 200 bits of entropy. Even with a quantum circuit, you’re talking about a massive probability cloud. It could take weeks of cooling time.”
+
+“We don’t have weeks. And I don’t have a budget to pay your retainer,” Lena said, her eyes boring into his. “But this wallet? It’s an ‘O.G.’ stash. We’re talking several Bitcoin. If you pull the key, you take ten percent. If you fail, you’re out the electricity bill.”
+
+Paul looked at the tablet, then at his bank app flickering on his smartwatch—Low Balance Alert. He was being asked to bet his last few thousand dollars in server credits on a ghost in the machine.
+
+“Ten percent,” Paul repeated, his throat dry. “And I need the hardware costs covered upfront if we hit the halfway mark.”
+
+If Paul said no, she had nothing else to offer her boss, and his patience was already thin. He had a new idea and needed someone with the tech-savvy person who could pull it off.  The presentation Paul had given contained all the right keywords. Now it was the time to see if there was more to it than sleek slides.
+
+“The deal is performance-only, Paul,” Lena said, already standing. “Either your tech works, or we both go broke. Do we have a handshake, or do I go find the guys from IBM?”
+
+Paul looked at her hand. It was a leap into the dark. He took it. “Bring me the drive.”
+
+Chapter 2

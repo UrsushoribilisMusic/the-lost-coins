@@ -1,0 +1,18 @@
+Chapter 29 - The Architecture of Hope
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Candlelit Dinner Table
+Seed: none
+Wide shot of a candlelit dinner table inside a stone villa dining room. The long rectangular table is set with fine cream linen, heavy silver cutlery, and tall tapered candles burning in iron holders. Wine glasses catch the flame in amber and gold. A half-finished bottle of red wine breathes on the sideboard behind. The room has thick stone walls, arched niches, and a high timber-beamed ceiling. Three place settings are occupied. The scene is seen from a slight elevation looking down the table. Vertical 9:16, warm amber candlelight dominates, deep shadows at the edges, rich and intimate atmosphere, no faces visible—just hands, glasses, and warm light.
+
+PROMPT 2 - Lena Watching Across the Table
+Seed: none
+Medium shot from one end of the dinner table looking toward the far end, where a woman with long blonde hair in a loose ponytail, blue eyes, wearing a charcoal blazer, sits watching two people to her side with quiet, unreadable intensity. Her wine glass is held loosely, half-raised. The candlelight catches her face from one side, the other half in shadow. Her expression is a study in concealment—warmth on the surface, something heavier underneath. The other figures are blurred at the sides of the frame. Vertical 9:16, narrow depth of field with Lena sharp and surroundings soft, amber candlelight creating beautiful chiaroscuro, introspective and melancholy.
+
+PROMPT 3 - Hands Across the Table
+Seed: none
+Close-up shot of two pairs of hands on a candlelit linen tablecloth: one hand, a man's, covering a woman's hand gently. A third hand, darker skinned and slender, rests near a wine glass nearby. The hands are the only thing in frame. The linen is warm cream, the candlelight catching the slight texture of the cloth. Wine-glass stems are visible at the edges. The gesture is intimate and tender—people who have lowered their guard. Vertical 9:16, extreme close-up on the hands and table, very shallow depth of field, warm amber tones, quiet emotional weight.
+
+PROMPT 4 - The Three Leaving the Table
+Seed: none
+Wide shot from behind as three figures—two women and one man—rise from a candlelit dinner table and move toward a corridor leading deeper into the villa. The man is tall and lean with dark disheveled hair, wearing a dark sweater. The dark-haired woman, slender build, moves alongside him. The blonde woman with a loose ponytail and charcoal blazer follows a half-step behind, her silhouette slightly apart. The candlelight fades as they move into a hallway with warm amber wall sconces. Vertical 9:16, wide tracking shot from behind, all three in silhouette, cinematic and quietly ominous.

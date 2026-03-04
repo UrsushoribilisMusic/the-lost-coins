@@ -1,0 +1,34 @@
+Chapter 0 - Runway Video Prompts
+Seed images: No character seed images available for this chapter.
+
+PROMPT 1 - Hal Finney's Cryogenic Chamber
+Seed: none
+A gleaming cylindrical cryogenic chamber containing a preserved human form, surrounded by swirling liquid nitrogen vapor in a sterile white laboratory at Alcor facility. The camera slowly tracks around the chamber as blue LED status lights pulse rhythmically along its surface, while frost crystallizes on the transparent viewing window. Cinematic lighting with cool blue tones, shallow depth of field focusing on the frost patterns, atmospheric fog effects.
+
+PROMPT 2 - Bitcoin Transaction Visualization
+Seed: none
+Abstract digital visualization of the first bitcoin transaction flowing from one glowing node to another against a dark cosmic background, with golden particles streaming between two pulsing points of light. The camera slowly pushes forward as cryptographic code cascades vertically like rain, with the year "2009" materializing in holographic numerals. Dramatic backlighting, lens flares, slow motion particle effects, deep blacks contrasted with warm amber glows.
+
+PROMPT 3 - Quantum Computer Laboratory
+Seed: none
+A massive quantum computer with intricate gold-plated circuitry and suspended dilution refrigerator chandelier descending from the ceiling in a pristine research facility, bathed in ethereal blue-white light. The camera cranes upward from ground level, revealing layers of cylindrical quantum processors with fiber optic cables snaking between components as scientists in clean room suits work in soft-focus background. High-key lighting, chrome and gold metallic surfaces, shallow depth of field, clinical precision aesthetic.
+
+PROMPT 4 - Neuralink Brain Interface Close-up
+Seed: none
+Extreme close-up of a sleek neural interface chip with microscopic electrode threads being slowly lowered toward a translucent representation of a human brain, surrounded by holographic data streams and neural pathway visualizations. The camera holds steady as delicate robotic arms position the device with surgical precision while electrical impulses pulse through the brain tissue in bioluminescent blue waves. Macro photography style, dramatic side lighting, medical precision aesthetic with sci-fi elements.
+
+PROMPT 5 - Crypto Valley Zug Aerial Establishing Shot
+Seed: none
+Sweeping aerial drone shot descending over the picturesque Swiss town of Zug at golden hour, with Lake Zug reflecting orange sunset light and modern glass office buildings nestled among historic architecture. The camera glides forward and down toward a contemporary conference center with floor-to-ceiling windows where silhouettes of people network inside, digital blockchain patterns subtly reflected in the glass facades. Cinematic golden hour lighting, anamorphic lens flare, establishing shot with gradual reveal.
+
+PROMPT 6 - Underground Criminal Network Montage
+Seed: none
+Shadowy figures exchange encrypted smartphones and briefcases of cash in a dimly-lit underground parking garage, faces obscured by darkness and concrete pillars creating harsh geometric shadows. The camera slowly dollies sideways past the transaction as red and blue neon light from an exit sign cuts through the darkness, cryptocurrency wallet addresses visible on phone screens casting cold light on hands. Film noir aesthetic, high contrast lighting, cigarette smoke atmosphere, shallow depth of field.
+
+PROMPT 7 - Wired Informant Preparation
+Seed: none
+Close-up sequence of a small wireless recording device being carefully concealed on an informant's torso by federal agents in a nondescript surveillance van, surveillance monitors glowing in the background showing thermal and video feeds. The camera pushes in slowly on trembling hands being steadied by an agent as the tiny microphone is taped into place, overhead dome light casting harsh shadows on anxious faces. Gritty documentary style, handheld camera subtle movement, desaturated color palette, tension-filled atmosphere.
+
+PROMPT 8 - Love's Unpredictable Power
+Seed: none
+Two silhouettes stand facing each other on a misty rooftop at dusk, city lights twinkling in soft-focus background as one figure reaches out to gently touch the other's face in a moment of vulnerable connection. The camera slowly orbits the couple as warm amber light from the setting sun breaks through the mist, their features gradually revealed showing expressions of hope mixed with uncertainty. Romantic cinematic style, shallow depth of field, lens flare, warm color grading, slow motion at 60fps.

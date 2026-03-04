@@ -1,0 +1,18 @@
+Chapter 27 - The Golden Hour
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Terrace at Sunset
+Seed: none
+Wide establishing shot of a stone terrace on a private Napa estate at golden hour, overlooking a valley filled with rows of grapevines glowing amber in the fading sun. The terrace is built from warm limestone, with a low stone balustrade along the edge. Terracotta urns overflow with trailing lavender and rosemary. A wrought iron table holds two wine glasses catching the light. The sky is a gradient of deep orange to bruised purple. No people in frame—just the space, the light, and the valley. Vertical 9:16, wide static shot, cinematic warmth, shallow depth of field with foreground stone balustrade in sharp focus and vines soft in the distance, golden hour magic.
+
+PROMPT 2 - Two Women on the Terrace
+Seed: none
+Medium shot from slightly behind and to the side of two women standing close together at a stone terrace railing, overlooking a vineyard at sunset. The woman on the left has long blonde hair in a loose ponytail, blue eyes, athletic build, wearing a charcoal gray blazer; she leans against the stone, her face in three-quarter profile. The woman on the right has long dark hair, brown eyes, slender build, wearing a deep burgundy silk blouse; she holds a half-full wine glass and faces the first woman with quiet, searching intensity. The golden sunset light catches both of them from the side. Vertical 9:16, intimate medium shot, warm amber tones, tension and attraction in posture.
+
+PROMPT 3 - The Kiss
+Seed: none
+Close profile shot of two women in an intimate moment on a stone terrace at dusk. The dark-haired woman with a sharp chin-length bob, pale skin, slender build, wearing a deep burgundy silk blouse, has her hand cupped around the jaw of the blonde woman with blue eyes, long hair in a loose ponytail, wearing a charcoal blazer. The dark-haired woman leans in assertively, the blonde woman's back against the stone railing. Both seen in profile or three-quarter view, faces close, captured at the moment of contact. The sunset glow behind them turns everything warm amber and violet. Vertical 9:16, slow push-in from the side, shallow depth of field with faces sharp and vineyard soft behind, romantic and charged atmosphere.
+
+PROMPT 4 - Moving Inside
+Seed: none
+Wide shot from inside a candlelit villa looking out through open French doors to a terrace where three figures—two women and one man—are turning to come back inside. The man leans casually in the doorframe, one hand raised. The dark-haired woman moves first, the blonde woman close behind, all three moving toward the warm candlelit interior. The contrast between the warm amber interior glow and the deep purple dusk outside frames the scene. Vine shadows and candlelight alternate across stone floors. Vertical 9:16, static shot from inside, wide angle, characters in silhouette as they cross the threshold, intimate and cinematic.

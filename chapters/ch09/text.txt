@@ -1,0 +1,26 @@
+Chapter 9 - The Anatomy of Memory
+========================================
+
+The restricted wing of the University of Zug felt less like a school and more like a cathedral of glass and silicon. Lena followed Erica past a series of pressurized airlocks. The scent of the lab had changed; the ozone of the lobby was replaced by the faint, antiseptic sting of formaldehyde and chilled air.
+
+“This is the heart of it,” Erica said, gesturing to a massive, donut-shaped machine that hummed with a low-frequency throb.
+
+“It looks like an MRI on steroids,” Lena remarked. She felt the “funk” from earlier—the magnetic pull toward Erica—warping into a strange kind of awe.
+
+“It’s aHigh-Resolution Synaptic Mapper,” Erica explained, pulling up a 3D rendering on a massive wall-mounted monitor. A human brain appeared in glowing, neon violet, a web of a hundred billion connections. “Standard MRIs show us the house. This shows us the wiring inside the walls. Using the flexible electrode threads, we can record the ‘echoes’ of neural pathways.”
+
+Lena stepped closer, the light of the monitor reflecting in her eyes. “You mentioned recovering what’s been lost. How far back can you go? What if the brain... isn’t functioning anymore?”
+
+Erica leaned against a lab bench, her expression turning professional and somber. “You mean the dead.”
+
+“In a sense,” Lena said, her voice careful.
+
+“Actually, that’s exactly how we developed the protocol,” Erica said, surprisingly casual. “We do a significant portion of our research on ‘non-living donors’—corpses donated to the university for scientific experimentation. If the brain is preserved shortly after clinical death, the synaptic architecture doesn’t just vanish. It’s like a book that’s been slammed shut. The words are still there; you just need a way to pry the pages apart without tearing them.”
+
+Lena felt a chill that had nothing to do with the lab’s climate control. “So you can read a dead man’s secrets?”
+
+“We can reconstruct patterns,” Erica corrected. “We’ve successfully mapped procedural memories in donors who had been gone for forty-eight hours. It’s a bit like digital forensics, but the hard drive is made of protein and lipids.”
+
+Erica walked toward the exit, her lab coat fluttering. “But enough about the morgue. I promised you coffee, and I’m pretty sure the living need caffeine more than the donors do.”
+
+Lena followed her, her mind racing. Erica had just confirmed it. The technology Zheng wanted wasn’t a sci-fi fantasy; it was sitting in this room, already being tested on the dead. And Lena was the one holding the door open for a monster to walk through.

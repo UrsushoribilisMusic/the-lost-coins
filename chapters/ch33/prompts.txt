@@ -1,0 +1,18 @@
+Chapter 33 - The Trojan Horse
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Forest Warehouse Exterior
+Seed: none
+Wide exterior establishing shot of a large abandoned logging warehouse at night, deep in Sequoia National Forest. The building is old corrugated metal and rough timber, weathered and dark, with only thin slivers of light escaping from inside through gaps. The massive redwood trees surrounding the structure dwarf it completely, their trunks disappearing into darkness above the frame. A single dim floodlight over the entrance creates a small pool of yellow on damp gravel. The forest is dense, dark, and absolute. Vertical 9:16, wide static shot, the building dwarfed by ancient trees, industrial intrusion in wilderness, eerie and isolated.
+
+PROMPT 2 - Being Wired Up
+Seed: none
+Close three-quarter shot from behind and to the side of a woman with long blonde hair in a loose ponytail, blue eyes, athletic build, wearing a light blouse—her jacket removed—standing in a hotel bathroom. A man's hands from off-frame carefully attach a thin adhesive wire along her ribcage, nearly invisible against her skin. Her posture is rigid but controlled, arms slightly raised. The bathroom is simple and bright, the clinical setting contrasting with the intimate act. A small earring sits on the counter beside the sink. Her face is turned slightly to the side, expression unreadable. Vertical 9:16, tight three-quarter shot, the wire barely visible, tension and transformation.
+
+PROMPT 3 - The Lab Inside the Warehouse
+Seed: none
+Wide interior shot of the converted logging warehouse interior, shot from one end looking toward the operational center. Rows of silver server towers and cable-management racks line the center floor, blinking with status LEDs in blue and green. Three men in technical clothing—Chinese engineers—move between equipment, adjusting cables and monitoring tablets. The walls are rough timber and corrugated metal but the equipment inside is pristine and advanced. Overhead industrial lights bathe everything in cool white. A heavy sliding metal door at the far end is slightly ajar. Vertical 9:16, wide angle, deep depth of field keeping all equipment and people in focus, the stunning contrast of wilderness exterior and precision laboratory interior.
+
+PROMPT 4 - Lena Signals on Her Phone
+Seed: none
+Close shot of a woman's hands holding a smartphone against her side in the shadowed corner of a warehouse, the screen casting faint blue light on her fingers and the industrial wall behind. She is seen from behind, her blonde ponytail visible above. She is pressing a specific app icon on the phone screen—the action deliberate and covert. The rest of the frame is in deep shadow: rough timber walls, the distant glow of laboratory equipment. The phone screen is the only light source. Vertical 9:16, tight close-up shot on hands and phone, minimal light, the furtive gesture of a double agent.

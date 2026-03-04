@@ -1,0 +1,40 @@
+Chapter 23 - The Strategy of the Hook
+========================================
+
+The glass doors of the Fedpol building in Bern slide open as Inspector Eddie Pinto walks in, looking like he hasn't slept since he left Hong Kong. He carries the humid exhaustion of the flight with him, a stark contrast to the crisp, mountain air of Switzerland.
+
+Captain Meier meets him in a secure briefing room overlooking the Aare river. On the table, three digital dossiers are open.
+
+"Welcome to Bern, Eddie," Meier says, sliding a cup of black coffee toward him. "I wish the circumstances were more social."
+
+Pinto doesn't sit. He walks to the monitors, staring at the three faces: Paul, Lena, and Erica. "We're running out of time, Captain. They leave in forty-eight hours. What's the status of the board?"
+
+"It's a lopsided triangle," Meier replies, pointing to Lena's image. "Lena Vance is our only direct link to the man we call Mr. Z. She's the intermediary, the one holding the leash. But she's sophisticated. She's lived in the shadows of the high-end fixer world for years. You try to squeeze her, and she'll have a top-tier legal team at the door before you finish reading her rights."
+
+Pinto nods, his eyes moving to Paul. "The hacker?"
+
+"Paul Arndt is the easy target," Meier says. "He's drowning in debt. His company is a ghost. He's the one most 'in need,' which makes him predictable. But he's also the most expendable. If we flip him and Mr. Z. smells a leak, Paul is a dead man before he hits the airport parking lot. He's a small fish, Eddie."
+
+"And the scientist?"
+
+"Erica Voss is the absolute high flyer," Meier says, his voice tinged with a reluctant respect. "Impeccable academic record, aside from some minor friction over research grants. She's the one with the most to lose—her reputation, her career, her life's work. But she's also the least 'criminal.' She likely believes this is a legitimate, if unorthodox, research trip. She's the soul of the group."
+
+Pinto taps the screen over Lena's face. "You said she's the only one on the hook legally?"
+
+"Correct," Meier confirms, pulling up a financial flow chart. "She is the one who received the initial Bitcoin transaction from the laundering chain. Technically, we have enough to detain her on suspicion of money laundering and conspiracy. Paul and Erica are just her 'employees' at this stage. Lena is the one with the blood on her digital hands."
+
+Pinto paces the room, his mind working through the permutations. "If we take Lena here, the whole operation collapses. Mr. Z. disappears back into the Macau fog, and we lose the chance to see what the 'Whale' really is. We need them to move."
+
+"So we let them fly," Meier says.
+
+"We let them fly," Pinto agrees. "But we need to set the hook. We involve the Feds in California. The FBI's Cyber Division is already salivating over this. We let the Swiss side stay quiet, let the trio believe they've cleared the border. Once they land in San Francisco, the Feds take the lead. We let Lena know we have the transaction data on her—but we give her a choice."
+
+Pinto leans over the table, his shadow falling across the three faces.
+
+"We tell her that she can either face a twenty-year sentence in a prison for laundering mafia money, or she can become a 'controlled asset' for the US government. We don't break the group; we compromise the leader."
+
+"It's a high-risk play," Meier warns, his eyes scanning Pinto's intense expression. "If Lena is more loyal to Mr. Z than her own freedom, she'll lead them all into a trap. You seem... exceptionally invested in this particular outcome, Inspector."
+
+Pinto goes still, his gaze fixed on the flickering surveillance feed. "My father was a foreman at the port in Macau," he says, his voice dropping into a low, jagged rasp. "He was a hard man, but he was honest. I watched him lose every cent he had—and eventually his dignity—at the hands of 'shadow financiers' like Mr. Z. Men who treat people like line items on a ledger. I made it my personal duty, perhaps even my vendetta, to ensure as many of them as possible spend their final years behind bars. This isn't just a case for me, Meier. It's an eviction notice for people who think they're untouchable."
+
+"In my experience," Pinto continues, looking back at Lena's cold, beautiful eyes on the screen, "everyone has a price. We just need to find out if hers is paid in Bitcoin or in self-preservation."

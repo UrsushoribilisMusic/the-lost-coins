@@ -1,0 +1,18 @@
+Chapter 28 - Following the Breadcrumbs
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - FBI Field Office at Night
+Seed: none
+Wide shot of a sparse but functional government field office at night, shot from behind two men. The room has a large window overlooking the San Francisco Bay Bridge lit up in orange and white, its lights reflecting on dark water. Fluorescent overhead lighting gives the space a harsh clinical contrast to the warm city lights outside. A large corkboard with surveillance photos and case documents lines one wall. Two men stand near the window: one with his back to camera in a rumpled gray suit, the other younger in a clean dark suit facing slightly sideways. Vertical 9:16, static wide shot, cool blue-white interior versus warm amber city glow through the window, procedural and urgent atmosphere.
+
+PROMPT 2 - Pinto at the Window
+Seed: none
+Close shot from behind of a late-40s man in a rumpled gray suit standing at a large office window, hands clasped behind his back, looking out at the illuminated Bay Bridge and San Francisco Bay at night. The city lights reflect in the glass, overlapping with his faint reflection. His posture is tired but resolute. The fluorescent office light casts his silhouette in sharp contrast against the glowing cityscape. No face visible—only back, shoulders, the silhouette of a man carrying the weight of a long investigation. Vertical 9:16, close static shot from directly behind, city glow dominant in frame, deep atmosphere, contemplative tension.
+
+PROMPT 3 - The Paper File Slides Across
+Seed: none
+Over-the-shoulder close-up shot looking past one man's shoulder as he slides a thick physical paper file folder across a polished government desk toward a second man seated opposite. The file is marked with colored tabs and printed labels. The second man's hands receive it, fingers splayed across the cover. The desk surface reflects fluorescent light. To the sides, a surveillance photograph of a woman is partially visible on a cork board. Vertical 9:16, tight over-the-shoulder framing, shallow depth of field with the file cover in sharp focus, the act of passing a physical case dossier in a digital age—deliberate and significant.
+
+PROMPT 4 - Surveillance Photo on Tablet
+Seed: none
+Extreme close-up of a tablet screen in a man's hands showing a surveillance photograph of a woman with long blonde hair in a loose ponytail, blue eyes, wearing a blazer, captured mid-stride in a hotel lobby. The image is slightly grainy in the telephoto way of long-lens surveillance photography, the background blurred. The tablet's screen glow illuminates the man's fingers from below. Around the photo, red digital annotation boxes are drawn around the subject. The office background behind the tablet is dark and out of focus. Vertical 9:16, fill-frame close-up on the tablet, cold and analytical atmosphere.

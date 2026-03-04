@@ -1,0 +1,18 @@
+Chapter 25 - The Shadow on the Vine
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - The Escalade Through Wine Country
+Seed: none
+Cinematic exterior shot of a black luxury Escalade moving slowly along a narrow road flanked by rows of Napa Valley grapevines in golden afternoon light. The vineyards stretch to either side in perfectly ordered rows, leaves catching the late sun in amber and green. The vehicle is seen from behind and slightly above, driving away from camera, sunlight reflecting off the tinted rear windows. Rolling hills covered in vines fill the background. Warm California golden hour color grading, hazy atmospheric depth, shallow depth of field with the road sharp and hills soft. Vertical 9:16 framing, slow smooth tracking shot from behind, cinematic and serene with an undercurrent of surveillance tension.
+
+PROMPT 2 - Inside the Escalade
+Seed: none
+Interior over-the-shoulder shot from behind the back seat of a luxury SUV. A woman with long blonde hair in a loose ponytail, blue eyes, athletic build, wearing a charcoal gray blazer sits in the front passenger area, her profile barely visible as she looks out the window at passing vineyards. A second woman with long dark hair, brown eyes, slender, wearing a light blouse, sits adjacent, watching the first woman with quiet intensity. Warm afternoon light streams through tinted windows, casting amber light across leather seats. Vertical 9:16, soft focus on the vineyard outside, interior figures in sharp foreground, intimate and suspicious atmosphere.
+
+PROMPT 3 - FBI Surveillance Vehicle
+Seed: none
+Interior of an unmarked silver sedan parked on the shoulder of a country road, shot from behind the two front seats. Two men in dark suits sit in the front: the driver is a late-40s man with a rumpled gray jacket and tired eyes, the passenger holds a surveillance tablet showing a glowing map with a blue tracking blip. Through the windshield, a narrow vineyard road stretches ahead in dappled afternoon light. The dashboard is clean except for a radio handset clipped near the mirror. Low ambient light inside the vehicle, warm daylight through the glass, professional and tense atmosphere. Vertical 9:16 framing, static shot, shallow depth of field with tablet screen faintly glowing.
+
+PROMPT 4 - Arrival at the Limestone Villa
+Seed: none
+Wide exterior shot of tall ornate iron gates slowly swinging open to reveal a private limestone estate nestled among Napa Valley vineyards at dusk. The villa facade is warm cream stone with arched windows glowing with interior amber light. Tall cypress trees flank the driveway, their shadows stretching long across the gravel in the fading golden light. A dark luxury vehicle pulls through the gates from behind, seen only as silhouette. The sky is deepening blue-pink with the last of sunset. Vertical 9:16, slow tracking push forward through the opening gates, cinematic estate arrival, warm and opulent but with an edge of unease.

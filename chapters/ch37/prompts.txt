@@ -1,0 +1,18 @@
+Chapter 37 - The Shell Game
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Zheng at the Foggy Penthouse
+Seed: none
+Wide interior shot of a luxury penthouse suite at night, floor-to-ceiling windows revealing a San Francisco skyline almost entirely swallowed by thick fog. Only the tops of distant buildings and a few amber street glow halos penetrate the gray. A mid-50s man with silver-streaked black hair slicked back, wearing a perfectly tailored dark charcoal suit, stands with his back to camera at the glass wall, staring out at the erasure. His reflection is faint in the glass. The interior is minimal: dark marble floors, no furniture in frame, just the man and the fog and the city disappearing. Vertical 9:16, wide static shot from behind, the fog as metaphor, cold and commanding.
+
+PROMPT 2 - Zheng's Video Call to Gonzales
+Seed: none
+Close three-quarter shot from behind and to the side of the same mid-50s man in a dark charcoal suit, silver-streaked hair slicked back, holding a tablet in front of him with both hands. The tablet screen shows a video call—a heavyset man visible on screen in the back of a dark SUV, lit by green tactical tablet glow. Zheng's posture is rigid, commanding. The penthouse behind him is dark, only the tablet screen and distant city glow providing light. His face is not visible—only the angular back of his head and the sharp silhouette of authority. Vertical 9:16, medium shot from behind, the command structure flowing through a screen.
+
+PROMPT 3 - Gonzales in the Dark SUV
+Seed: none
+Interior close shot from behind the front seats of a blacked-out SUV, looking toward the back seat where a heavyset man in a dark canvas jacket and heavy work boots sits with a tactical tablet in his hands. The tablet emits green glow in the otherwise dark interior. His face is mostly in shadow—only the outline of a salt-and-pepper mustache and broad jaw are visible. Through the tinted windows, the distant lights of the East Bay flicker. His posture is relaxed but focused—a professional criminal on the clock. Vertical 9:16, interior close shot from behind the front seats, green tactical glow only light, Gonzales in command.
+
+PROMPT 4 - Lena Reads the Text at the Table
+Seed: none
+Close shot from the side of a woman with long blonde hair in a loose ponytail, blue eyes, wearing a charcoal blazer, seated at the wooden table in the warehouse annex. She holds her phone in one hand, its blue screen glow reflected in her eyes and across her face. Around her at the edges of frame, the blurred shapes of others eating and talking—unaware. Her expression is still and controlled—a person receiving devastating news and containing it completely. The blue phone light is the only sharp element against the warm amber of the room's lamplight. Vertical 9:16, close shot from the side, the contrast of blue phone glow against warm room light, the weight of the message she alone carries.

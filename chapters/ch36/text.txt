@@ -1,0 +1,47 @@
+Chapter 36 - The Morning After
+
+The morning light in the Sequoias doesn't so much break as seep—a cold, gray mist that clings to the rusted exterior of the warehouse like a damp wool blanket. Inside, the industrial hum of the cooling units has become the heartbeat of the building, but the humans within it are faring less well.
+
+Lena is the first to the small, cramped bathroom in the annex. She barely gets the door locked before the pizza and the stress of her double life make a violent reappearance. She leans over the porcelain, her knuckles white, her breath hitching in the cold air.
+
+A soft knock at the door.
+
+"Lena? You okay?" It's Erica.
+
+Lena splashes cold water on her face and opens the door. Erica is standing there, leaning against the corrugated metal wall, looking a shade of pale that matches her lab coat.
+
+"I'm fine," Lena lies. "The pepperoni from that joint wasn't as local as they claimed."
+
+Erica lets out a dry, pained laugh and slides into the bathroom as Lena exits. "Tell me about it. If I ever see another cardboard box, it'll be too soon."
+
+---
+
+Despite the rough start, the energy in the main warehouse is electric. The Big Fire has been extinguished, replaced by the steady rhythmic blinking of green LEDs.
+
+Paul is hunched over his main terminal, eyes bloodshot but bright with victory. Chen stands over him, watching the data flow with a mischievous glint.
+
+"Primary array is synced. Handshake is at 99.9%. Initiating final stress test on the neural buffer."
+
+Chen leans in, taps a specific line on Paul's screen, and shakes his head solemnly. "Paul. Very bad. You forget the fēngshàn."
+
+Paul freezes. "The cooling fan? I checked the RPMs—"
+
+Chen sighs. "No fēngshàn. System... boom." He makes a small explosion gesture. "You forgot the 'Please' in the command line. Very rude to server. Server angry now."
+
+Paul stares at him deadpan for three full seconds. Then he realizes Chen is holding back a grin.
+
+"You're pulling my leg," Paul groans. "You're making polite computer jokes while I'm sweating through my shirt?"
+
+Chen lets out a high-pitched cackle, slapping Paul on the back. "Paul too serious! System is perfect. 100% logic. Even without 'Please'."
+
+---
+
+Erica emerges from the annex, looking fragile but determined. She walks toward the silver synaptic array and taps commands into her tablet.
+
+"The calibration run was a success," she announces. "The fluidics are holding pressure, the mapping laser is aligned, and the server rack is hungry."
+
+She looks at Lena, then at the heavy warehouse doors. The humor of the morning fades, replaced by the heavy, clinical reality of what comes next.
+
+"All we're missing now is the patient."
+
+Lena feels a cold vibration in her right ear. She doesn't need to check her phone. She knows the FBI is listening to the silence that follows. The trap is primed. The patient is on its way.

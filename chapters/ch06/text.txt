@@ -1,0 +1,50 @@
+Chapter 6 - Pulling an All-Nighter
+========================================
+
+Paul looked at his watch. It was 2:14 in the morning. On his desk, the USB disk sat connected to his rig via a daisy-chain of adapters.
+
+Paul wasn’t just looking for data; he was looking for a ghost. Specifically, a Shamir’s Secret Sharing (SSS) scheme used to split a private key into three shards. The terminal screen flickered with raw hex code.
+
+“Come on, you beautiful disaster,” Paul muttered, his eyes bloodshot.
+
+He ran a custom script to scan for specific metadata headers. Most of the drive was digital sludge, but then—a hit. A string of characters appeared that didn’t match the surrounding noise. It was the first shard.
+
+Technical Note:In a sharded system, the original key is mathematically broken into pieces. You don’t need all of them to rebuild it, but Paul’s client only had two. He needed the third to hit the “threshold.”
+
+Technical Note:In a sharded system, the original key is mathematically broken into pieces. You don’t need all of them to rebuild it, but Paul’s client only had two. He needed the third to hit the “threshold.”
+
+Paul pulled the second shard from a backup file he’d decrypted earlier. Now he had two out of three. In the world of cryptography, two shards out of a 3 requirement is a tantalizing cliffhanger. You have the map, but the destination is blurred.
+
+He began the Lagrange Interpolation. It was a mathematical “connect-the-dots”: the dots were the shards. And the line they formed would eventually cross the Y-axis at a specific point: the private key.
+
+Shard A: Verified.
+
+Shard B: Verified.
+
+Shard C: Missing/Corrupted.
+
+The third shard was located in a sector of the disk that had been partially overwritten. It was a digital Swiss cheese—full of holes.
+
+Paul didn’t need the whole shard; he just needed enough of it to guess the rest. He launched a Heuristic Brute Force attack. He set his GPUs to roar, the fans spinning up to a high-pitched whine that vibrated through his floorboards.
+
+The screen was a blur of failing permutations:
+
+Attempt 1,042,881: CHECKSUM FAIL
+
+Attempt 1,098,220: CHECKSUM FAIL
+
+An hour went by, the Brute Force attack was getting nowhere. He watched the “Time Remaining” counter bounce between2 hoursand48 years.
+
+“Think, Paul. The owner used a 256-bit entropy seed,” he whispered. He tweaked the algorithm to ignore the corrupted parity bits.
+
+The room felt smaller. The heat from the servers was making him sweat. Suddenly, the chaotic scrolling of the terminal stopped. The fans dropped an octave.
+
+MATCH FOUND. RECONSTRUCTING POLYNOMIAL...
+
+A single line of text printed across the center of the screen. A 64-character hexadecimal string. The private key.
+
+Paul didn’t cheer. He didn’t have the energy. He copied the string, ran it through a wallet validator, and watched as the balance popped up: 9.08 BTC.
+
+At current market rates, he’d just found a sunken treasure ship. He went in the bedroom forgetting it was past 4 AM. Erica would love to hear the news, he was sure of that.
+
+Chapter 7

@@ -1,0 +1,49 @@
+# Chapter 2 - Runway Video Prompts (veo3 text-to-video)
+
+---
+
+**PROMPT 1 - The Encrypted Call**
+
+Side profile view of a 30-year-old woman with long blonde hair and blue eyes, fair skin, standing 1.70m tall with an athletic build, wearing a black knee-length pencil skirt, black ankle boots, a muted gray silk blouse, a delicate silver necklace, and an expensive Swiss watch on her left wrist. She stands pressed against floor-to-ceiling glass windows of a modern luxury apartment balcony, phone held to her ear, shot from the side capturing her silhouette against the twilight cityscape of Zug, Switzerland below. The Crypto Valley streets glow with evening lights in the background, creating a cold blue-hour atmosphere. Cinematic shallow depth of field with the woman's profile sharp and the city lights bokeh-blurred behind the glass. Moody, tense lighting with cool tones dominating the frame. Vertical 9:16 composition emphasizing her isolation against the vast window.
+
+---
+
+**PROMPT 2 - Trembling Hands**
+
+Extreme close-up shot from behind and slightly to the side of a woman's hand gripping a smartphone, trembling slightly, with an expensive Swiss watch visible on her wrist. The hand belongs to a 30-year-old woman with fair skin and manicured nails, wearing a delicate silver necklace visible at the edge of frame. The background shows blurred floor-to-ceiling windows with defocused city lights of Zug, Switzerland in the evening. Dramatic low-key lighting with the phone screen casting a cold blue glow on her fingers. Shallow depth of field focusing on the trembling hand and watch, with the background completely soft and atmospheric. Cinematic color grading with cool blues and grays. Vertical 9:16 framing capturing the tension in the hand gesture and the luxury details.
+
+---
+
+**PROMPT 3 - Reflection in the Glass**
+
+Over-the-shoulder shot from behind a 30-year-old woman with long blonde hair cascading down her back, fair skin, standing 1.70m tall with an athletic build, wearing a black knee-length pencil skirt, black ankle boots, a muted gray silk blouse, a silver necklace, and a Swiss watch. She stands facing floor-to-ceiling glass balcony doors where her ghostly reflection is faintly visible in the darkened glass. The camera is positioned directly behind her head and shoulders, looking at her reflection rather than her actual face. Moody, contemplative atmosphere with dim interior lighting and the faint glow of Swiss city lights beyond the glass. Cool color palette dominated by blues and blacks. Cinematic composition with the reflection appearing haunted and uncertain. Vertical 9:16 format emphasizing her solitary figure against the tall glass doors.
+
+---
+
+**PROMPT 4 - The Encrypted Stick Arrives**
+
+Three-quarter back angle of a 30-year-old woman with long blonde hair, blue eyes, fair skin, athletic build, 1.70m tall, wearing a black knee-length pencil skirt, black ankle boots, muted gray silk blouse, silver necklace, and Swiss watch on her left wrist. She walks slowly toward a modern minimalist bedside table where a small USB encrypted stick sits under a pool of warm lamplight. Shot from behind and slightly to the side, following her approach with a slow tracking movement. The luxury Swiss apartment bedroom is dimly lit with cool shadows, creating strong contrast with the warm light on the USB stick. Cinematic shallow depth of field with the USB stick in sharp focus as she reaches toward it. Film noir lighting aesthetic with dramatic shadows. Vertical 9:16 composition following her movement into the frame.
+
+---
+
+**PROMPT 5 - Two Dresses Decision**
+
+High angle shot looking down from behind the shoulders of a 30-year-old woman with long blonde hair (only the back of her head and hair visible), fair skin, athletic build, wearing a black skirt and muted gray blouse with a Swiss watch on her wrist. She stands looking down at a luxury hotel bed where two elegant dresses are carefully laid out: one modest black silk dress on the left and one striking crimson red dress on the right. The bedroom has soft, warm lighting from bedside lamps creating pools of light on the dresses against white hotel linens. Cinematic overhead perspective, shot from directly behind her head looking downward. Shallow depth of field with the dresses in sharp focus. Color contrast between the black and vibrant red fabric. Vertical 9:16 framing emphasizing the choice before her and the luxury setting.
+
+---
+
+**PROMPT 6 - Reaching for the Red**
+
+Close-up side profile shot of a woman's hand with fair skin and an expensive Swiss watch on the wrist, reaching deliberately toward a crimson red silk dress laid on white luxury bedding. The hand belongs to a 30-year-old woman with manicured nails and a silver necklace barely visible at the edge of frame. Shot from a low angle at the level of the bed, capturing the decisive moment of choice. Warm, intimate lighting from a bedside lamp creates soft shadows on the red silk fabric's texture. Cinematic shallow depth of field with the hand and red dress fabric in sharp focus, background softly blurred. Rich color saturation emphasizing the deep crimson against the white linens. Slow motion aesthetic. Vertical 9:16 composition focusing on the gesture of decision and the luxurious textile details.
+
+---
+
+**PROMPT 7 - Balcony at Dusk**
+
+Wide silhouette shot from the side of a 30-year-old woman with long blonde hair, fair skin, athletic build, 1.70m tall, wearing a black knee-length pencil skirt, black ankle boots, muted gray silk blouse, silver necklace, and Swiss watch. She leans against the glass railing of a modern luxury apartment balcony, her profile in silhouette against the dusky blue-hour sky. The cityscape of Zug, Switzerland's Crypto Valley spreads below with twinkling lights beginning to appear. Strong backlight from the fading sunset creates a rim light around her silhouette. Cinematic wide composition showing both her isolated figure and the vast urban landscape below. Cool color grading with deep blues and purples dominating the twilight atmosphere. Vertical 9:16 format emphasizing the height of the balcony and her contemplative solitude.
+
+---
+
+**PROMPT 8 - The Line Goes Dead**
+
+Extreme close-up from behind and side angle of a 30-year-old woman with long blonde hair, fair skin, wearing a silver necklace and Swiss watch visible on her wrist. She slowly lowers a smartphone from beside her ear, the phone screen glowing with a "CALL ENDED" display. Shot captures only the back and side of her head, her blonde hair, her neck, shoulder, and the hand holding the phone. Dramatic low-key lighting with the phone screen providing the primary light source in cool blue tones. Floor-to-ceiling windows with blurred evening city lights visible in the soft-focused background. Cinematic shallow depth of field focusing on the phone and hand gesture. Tense, isolated atmosphere. Vertical 9:16 composition emphasizing the vertical drop of her hand and the finality of the ended call.

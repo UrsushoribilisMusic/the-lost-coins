@@ -1,0 +1,18 @@
+Chapter 34 - The Language of Logic
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Paul and Chen at the Server Rack
+Seed: none
+Medium shot from behind and slightly to the side of two men crouched at floor level beside an open server rack in a converted warehouse lab. The man on the left is lean with dark disheveled curly hair, light stubble, wearing a dark hoodie, typing rapidly on a laptop balanced on his knee. The man on the right is shorter, wearing thick glasses and a technical vest, handling a fiber-optic cable with surgical precision. Around them: blinking server LEDs in blue and green, tangled cables, equipment boxes used as seats. Overhead industrial lighting from above, ozone smell implied by the sterile blue tones. Vertical 9:16, medium shot from behind both men, informal and focused, the intimacy of two tech minds working.
+
+PROMPT 2 - Laptop Screen Data Stream
+Seed: none
+Extreme close-up of a laptop screen showing scrolling technical data: network latency graphs with a spiking red line, packet loss percentages, and code terminal output with rapid green text scrolling. A man's hands type quickly on the keyboard below the screen. The screen fills the entire frame. Small reflections of blue and green server LEDs are visible on the screen surface. The technical data is dense and real-looking—graphs, hex values, throughput metrics. Vertical 9:16, full-frame close-up on screen, fast-paced data scroll, technical intensity.
+
+PROMPT 3 - Erica Commanding the Annex
+Seed: none
+Three-quarter shot from behind and to the side of a woman with long dark hair, brown eyes, slender build, wearing a white lab coat over dark clothing. She stands at a stainless steel medical equipment station pointing at a monitor display, directing two engineers with quick authoritative gestures. The engineers—both in technical vests—lean in to look where she points. The annex around them has medical equipment, IV stands, and climate-control machinery. Cool white lighting, clinical and precise. Vertical 9:16, medium shot from behind and side, Erica's authority and focus in command.
+
+PROMPT 4 - Lena at the Bathroom Mirror, Whispering
+Seed: none
+Close shot from behind and slightly to the side of a woman with long blonde hair in a loose ponytail, blue eyes, wearing a charcoal blazer, leaning close to a small bathroom mirror above a running faucet. Her head is turned slightly, lips barely moving. The faucet water creates white noise. The bathroom is cramped industrial: corrugated metal wall, a single bare bulb above the mirror. Her reflection in the mirror shows downcast eyes and intense focus. The blue-lit phone screen is just visible near her jaw. Vertical 9:16, tight three-quarter shot, the intimacy of the covert call, industrial drabness heightening tension.

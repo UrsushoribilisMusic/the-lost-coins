@@ -1,0 +1,18 @@
+Chapter 26 - The Decoy
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Alcor Underground Storage
+Seed: none
+Wide establishing shot of a large underground cryogenic storage facility at night, shot from a high corner angle looking down. Rows of gleaming silver cylindrical cryo-tanks line the space in precise formation, each with a blue status indicator light glowing faintly in the cold dark. The floor is polished concrete reflecting the low blue-white lighting. Overhead industrial lighting is dim, with only emergency strips illuminating the aisles between tanks. The space is vast and silent, a cathedral of cold. Vertical 9:16, deep depth of field keeping all tanks in sharp focus, cool blue-white color grading, eerie and clinical atmosphere, static camera emphasizing the scale and silence.
+
+PROMPT 2 - The Swap at Midnight
+Seed: none
+Over-the-shoulder shot from behind two men in dark work clothing wheeling a large sleek silver-alloy cylindrical cryo-tank on a heavy-duty trolley through a camera blind spot in a maintenance corridor. The men are seen only from behind: one is heavyset with a dark cap, the other lean and quick-moving. The corridor is narrow, lit only by a single overhead maintenance strip casting harsh white light downward. Exposed nitrogen pipes run along the ceiling, moisture condensing on them. The cryo-tank catches the light in cold metallic sheen. Vertical 9:16, slow tracking shot following from behind, industrial tension, precise and deliberate movement, midnight urgency without noise.
+
+PROMPT 3 - Security Monitoring Room
+Seed: none
+Interior of a small security monitoring room, shot from behind a seated guard at a curved desk covered in monitors showing different angles of the storage facility. A late-middle-aged man in a security uniform sits slightly hunched, one hand on a coffee mug, scrolling through a digital log on a central screen. The monitors around him show rows of cryogenic tanks, corridors, and entry points. One screen briefly shows a red alert notification before clearing. Fluorescent overhead lighting, slight visual fatigue in the guard's posture. Vertical 9:16, static shot from behind the guard's head and shoulders, surveillance monitor glow reflecting on his face in profile, quiet procedural tension.
+
+PROMPT 4 - The Sensor Blip
+Seed: none
+Extreme close-up of a security monitoring screen displaying a digital log with row entries of cryogenic unit status. One row labeled UNIT 803 flickers amber, showing a status of OFFLINE for 3 seconds before returning to green NOMINAL. A finger in dark glove points at the screen off-frame. The screen's blue-white glow fills the frame, text crisp against dark background. Other unit statuses remain steady green around it. Vertical 9:16, static close-up on the monitor, screen fills the entire frame, minimal depth, the single amber blip the only anomaly in a sea of green lights.

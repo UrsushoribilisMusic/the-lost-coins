@@ -1,0 +1,18 @@
+Chapter 30 - The Principal's Arrival
+Runway Video Prompts (veo3 text-to-video)
+
+PROMPT 1 - Forest Warehouse Interior
+Seed: none
+Wide interior shot of a large abandoned logging warehouse deep in Sequoia National Forest, shot from a high corner angle looking down. The space is cavernous: rough timber walls, a high rusted corrugated metal roof with faint light filtering through gaps. A massive rusted forklift sits in one corner. Wooden pallets and old equipment are stacked along the walls. A single hanging industrial lamp casts a cone of yellow light in the center of the concrete floor. The air looks damp, shadows deep and long. A heavyset man in a dark canvas jacket leans against the forklift in the shadows, phone raised to his ear. Vertical 9:16, high-angle wide shot, industrial decay meets dangerous purpose, dim and oppressive.
+
+PROMPT 2 - Macau Penthouse Night
+Seed: none
+Wide establishing exterior-style shot of a luxury penthouse interior at night, floor-to-ceiling glass walls overlooking a glittering Asian city skyline. The South China Sea is visible as a dark ribbon between towers of colored neon and white light. Inside, the space is minimal and expensive: dark polished marble floors, a single low table, and one man standing with his back to camera at the glass wall. He is mid-50s, silver-streaked black hair slicked back, wearing a perfectly tailored dark charcoal suit. His posture is absolute stillness. Vertical 9:16, wide static shot from behind, floor-to-ceiling glass dominates, city glow contrasting with the cold interior, powerful and chilling.
+
+PROMPT 3 - Zheng at the Digital Map
+Seed: none
+Medium shot from behind and slightly to the side of a mid-50s man in a perfectly tailored dark charcoal suit, silver-streaked black hair slicked back, standing at a curved glass table studying a large digital tablet displaying a topographic map with red location markers in a forested mountain region. His posture is rigid and precise, one hand flat on the table surface. The room is dark around him, only the tablet light and the distant city glow from floor-to-ceiling windows behind illuminating the scene. Vertical 9:16, medium static shot from the side and slightly behind, cold blue-red light from the tablet, commanding and ominous.
+
+PROMPT 4 - The Three Silent Guards
+Seed: none
+Low-angle wide shot looking up at three men in dark suits standing in a line beside a closed penthouse office door, hands clasped in front, faces turned slightly away from camera. They are still as statues, expressionless, all wearing identical dark clothing with earpieces. The room behind them is dim—only the ambient glow of the city through glass windows illuminates the space. The composition is symmetrical and slightly surreal—three identical silhouettes of disciplined violence. Vertical 9:16, low angle looking up at the figures, slight wide-angle distortion emphasizing their height and stillness, Macau crime boss atmosphere.

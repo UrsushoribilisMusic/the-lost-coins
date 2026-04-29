@@ -1,34 +1,29 @@
-Chapter 0 - Runway Video Prompts
-Seed images: No character seed images available for this chapter.
+PROMPT 1 - The Weight of What Is Real
+Vertical 9:16 framing. A vast dark void fills the frame, broken only by a single shaft of cold white light cutting diagonally from upper left. No characters. A lone physical book rests open on a plain concrete surface, its pages slightly ruffled by an unseen current of air. The mood is solemn and archival, as if history itself is being consulted. Shallow depth of field blurs the edges into total darkness. Cinematic desaturated color grading with cool blue undertones.
 
-PROMPT 1 - Hal Finney's Cryogenic Chamber
-Seed: none
-A gleaming cylindrical cryogenic chamber containing a preserved human form, surrounded by swirling liquid nitrogen vapor in a sterile white laboratory at Alcor facility. The camera slowly tracks around the chamber as blue LED status lights pulse rhythmically along its surface, while frost crystallizes on the transparent viewing window. Cinematic lighting with cool blue tones, shallow depth of field focusing on the frost patterns, atmospheric fog effects.
+PROMPT 2 - A Name Carved in the Blockchain
+Vertical 9:16 framing. Extreme close-up of a computer terminal screen in a darkened room, the green glow of cascading code reflecting off the desk surface below. The text resolves slowly: a Bitcoin transaction hash, then the name HAL FINNEY. No characters present. The camera holds perfectly still as the text sharpens then softly blurs at the edges. Mood is reverent and eerie, like reading an inscription on a grave. Shallow depth of field. Cinematic color grading, cold green and black tones.
 
-PROMPT 2 - Bitcoin Transaction Visualization
-Seed: none
-Abstract digital visualization of the first bitcoin transaction flowing from one glowing node to another against a dark cosmic background, with golden particles streaming between two pulsing points of light. The camera slowly pushes forward as cryptographic code cascades vertically like rain, with the year "2009" materializing in holographic numerals. Dramatic backlighting, lens flares, slow motion particle effects, deep blacks contrasted with warm amber glows.
+PROMPT 3 - Cryogenic Sleep in Scottsdale
+Vertical 9:16 framing. A long sterile corridor inside a cryonics facility, shot from a low angle looking upward along a row of brushed-steel cryogenic cylinders stretching into darkness. Harsh fluorescent overhead light bleeds white at the ceiling and fades to deep shadow at floor level. No characters present. Condensation vapor drifts slowly from a valve near the base of one cylinder. The mood is cold, suspended, and profoundly still — time stopped by technology. Shallow depth of field. Cinematic color grading with icy silver and pale blue tones.
 
-PROMPT 3 - Quantum Computer Laboratory
-Seed: none
-A massive quantum computer with intricate gold-plated circuitry and suspended dilution refrigerator chandelier descending from the ceiling in a pristine research facility, bathed in ethereal blue-white light. The camera cranes upward from ground level, revealing layers of cylindrical quantum processors with fiber optic cables snaking between components as scientists in clean room suits work in soft-focus background. High-key lighting, chrome and gold metallic surfaces, shallow depth of field, clinical precision aesthetic.
+PROMPT 4 - Quantum Probability
+Vertical 9:16 framing. A high-tech university laboratory at night, seen from outside through a floor-to-ceiling glass wall, camera positioned at three-quarter angle looking in. Banks of server-scale hardware glow amber and white inside. No characters. Holographic data visualizations float faintly above a central workstation, abstract and mathematical. The exterior glass is slightly fogged from temperature contrast, refracting the interior light into soft halos. Mood is quietly ominous — power beyond comprehension running silently in the dark. Shallow depth of field. Cinematic color grading, warm amber interior against cold blue-black exterior.
 
-PROMPT 4 - Neuralink Brain Interface Close-up
-Seed: none
-Extreme close-up of a sleek neural interface chip with microscopic electrode threads being slowly lowered toward a translucent representation of a human brain, surrounded by holographic data streams and neural pathway visualizations. The camera holds steady as delicate robotic arms position the device with surgical precision while electrical impulses pulse through the brain tissue in bioluminescent blue waves. Macro photography style, dramatic side lighting, medical precision aesthetic with sci-fi elements.
+PROMPT 5 - Signals from Inside the Mind
+Vertical 9:16 framing. A clinical neuroscience lab, empty of people, lit by the pale glow of a single monitor displaying a rotating 3D brain scan. Medical equipment lines the background — electrode arrays, interface hardware, surgical-grade tools on a tray. The camera drifts in a slow push forward toward the monitor, the brain scan rotating with quiet menace. No characters. Mood is invasive and intimate, the boundary between machine and thought almost dissolved. Shallow depth of field. Cinematic color grading with cool gray-white and deep shadow contrast.
 
-PROMPT 5 - Crypto Valley Zug Aerial Establishing Shot
-Seed: none
-Sweeping aerial drone shot descending over the picturesque Swiss town of Zug at golden hour, with Lake Zug reflecting orange sunset light and modern glass office buildings nestled among historic architecture. The camera glides forward and down toward a contemporary conference center with floor-to-ceiling windows where silhouettes of people network inside, digital blockchain patterns subtly reflected in the glass facades. Cinematic golden hour lighting, anamorphic lens flare, establishing shot with gradual reveal.
+PROMPT 6 - Money Moves Through the Dark
+Vertical 9:16 framing. An underground parking garage in an unnamed city, lit by a single buzzing sodium lamp casting amber light across wet concrete. Stacks of bundled cash sit on the hood of a blacked-out car in the mid-ground, slightly out of focus. No characters visible. The camera is positioned low and wide, emphasizing the emptiness and the weight of the money. A slow creep of fog or exhaust drifts across the floor. Mood is criminal, transactional, and utterly without conscience. Shallow depth of field. Cinematic color grading, sickly amber and deep black.
 
-PROMPT 6 - Underground Criminal Network Montage
-Seed: none
-Shadowy figures exchange encrypted smartphones and briefcases of cash in a dimly-lit underground parking garage, faces obscured by darkness and concrete pillars creating harsh geometric shadows. The camera slowly dollies sideways past the transaction as red and blue neon light from an exit sign cuts through the darkness, cryptocurrency wallet addresses visible on phone screens casting cold light on hands. Film noir aesthetic, high contrast lighting, cigarette smoke atmosphere, shallow depth of field.
+PROMPT 7 - The Informant Always Has a Face
+Vertical 9:16 framing. A diner booth at night, shot from over the shoulder of an anonymous figure seated facing away from camera — gender ambiguous, features entirely hidden. Across the table sits no one — just a small recording device placed deliberately on the Formica surface, a coffee cup beside it. The diner windows behind show rain-blurred neon reflections from the street. Mood is tense, covert, and lonely. The wire is already running. Shallow depth of field softens the background into streaks of color. Cinematic color grading with warm amber interior and cold wet blue beyond the glass.
 
-PROMPT 7 - Wired Informant Preparation
-Seed: none
-Close-up sequence of a small wireless recording device being carefully concealed on an informant's torso by federal agents in a nondescript surveillance van, surveillance monitors glowing in the background showing thermal and video feeds. The camera pushes in slowly on trembling hands being steadied by an agent as the tiny microphone is taped into place, overhead dome light casting harsh shadows on anxious faces. Gritty documentary style, handheld camera subtle movement, desaturated color palette, tension-filled atmosphere.
+PROMPT 8 - Zug in Winter Light
+Vertical 9:16 framing. Aerial-style slow descent over the rooftops of Zug, Switzerland at dusk — medieval spires and modern glass towers sharing the skyline above a steel-gray lake. The light is low and golden at the horizon, fading to violet overhead. No characters. Conference venue banners for a crypto startup summit hang from a glass-and-steel building below, logos barely legible. The city looks prosperous, orderly, and completely unaware of what is coming. Mood is deceptively calm — the eye of a coming storm. Shallow depth of field at the edges. Cinematic color grading, golden hour fading into cold dusk.
 
-PROMPT 8 - Love's Unpredictable Power
-Seed: none
-Two silhouettes stand facing each other on a misty rooftop at dusk, city lights twinkling in soft-focus background as one figure reaches out to gently touch the other's face in a moment of vulnerable connection. The camera slowly orbits the couple as warm amber light from the setting sun breaks through the mist, their features gradually revealed showing expressions of hope mixed with uncertainty. Romantic cinematic style, shallow depth of field, lens flare, warm color grading, slow motion at 60fps.
+PROMPT 9 - Love as the Variable No One Models
+Vertical 9:16 framing. A narrow cobblestone alley somewhere in Europe at night, lit by a single old iron lamppost. Two silhouetted figures stand several feet apart — one taller and lanky, one shorter — both facing slightly away from camera. Their faces are entirely in shadow. The gap between them carries unbearable tension — whether it is the beginning or the end of something is impossible to tell. No dialogue, no movement. Mood is intimate, unresolved, and quietly devastating. Shallow depth of field blurs the alley behind them into soft bokeh halos. Cinematic color grading, warm amber lamplight against deep indigo shadow.
+
+PROMPT 10 - Everything That Follows Is True Enough
+Vertical 9:16 framing. A single burning match held by an unseen hand fills the lower portion of the vertical frame, the flame catching and rising in real time against absolute black background. The light from the flame illuminates nothing except itself and the faintest suggestion of fingertips below frame. No characters shown. As the flame grows, the camera holds perfectly still. Mood is primordial — a story being lit, a fuse being touched, a warning being issued. Shallow depth of field makes the flame the only object in the universe. Cinematic color grading, deep black with rich amber and orange flame tones.

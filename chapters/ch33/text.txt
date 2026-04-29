@@ -1,31 +1,25 @@
-Chapter 33 - The Trojan Horse
+Chapter 33: The Trojan Horse
+========================================
 
-The morning light at the Fairmont is pale gold through heavy curtains. Lena sits at the desk in her suite, now a very different kind of room.
-
-Agent Vance moves with practiced efficiency. He produces a small kit from his jacket: two adhesive microphone pads no larger than a postage stamp, a wire so thin it's almost invisible, and a pair of bone-conduction earrings disguised as brushed silver studs.
-
-"The earrings vibrate at a frequency you'll feel in your jaw," he explains as he fits one to her ear. "You'll hear us, but no one else will. Think of it as the most discreet way to keep you on a leash."
-
-Inspector Pinto hands Lena a phone—identical to hers but with a burst-transmission chip that pings their location every time she opens the YouTube app. "For plausible cover," he says.
-
-Her mission: collect Erica and Paul, drive them to the site in the Sequoias, and maintain her role as concierge while the FBI builds its perimeter in the forest. Bring everyone into the same room. Let them come to the trap.
-
----
-
-The logging warehouse sits in a cathedral of redwoods, accessible only by a single-lane dirt road. From the outside, it looks abandoned. From the inside, it is another world.
-
-Three Chinese engineers have already installed the cooling processors. The synaptic mapping array—a forest of silver-shielded cables and server towers—hums in the center of the main floor. Paul walks into it like a man entering a church.
-
-"It's beautiful," he breathes.
-
-Chen, one of the engineers, turns and gives Paul a precise, professional nod.
-
-Lena hangs back at the edge of the room, her right hand resting near her jacket pocket. She taps the YouTube icon.
-
-Pinto's voice settles into her jaw, warm and steady. "Photograph the equipment crate labels for us—we need serial numbers for ATF tracking. You're doing great, Lena. Stay calm."
-
-She raises her phone casually, as if texting, and begins to document the room.
-
-She is standing in the most dangerous room in the world, wired for the FBI, with the trust of two innocent people in her care—and the man she is betraying due to land in a few hours.
-
-The Trojan Horse has entered the walls.
+The air in the FBI’s tactical suite at the Fairmont is thick with the hum of high-end servers and the smell of ozone. Lena sits on a velvet armchair, her skin pale. Special Agent Smith is leaning over her, focused on her smartphone.
+“We’ve mirrored your device,” Smith says, sliding the sleek phone back to her. “There’s a kernel-level application hidden inside the system utility. It’s passive to avoid detection by any local sweeps. When you need us to listen, just open the TikTok or YouTube app. That’s the trigger. It’ll open a high-gain audio bridge through those earrings and start a burst-upload of your GPS coordinates. To anyone looking over your shoulder, you’re just scrolling through videos.”
+Next, he hands her a pair of high-end designer earrings—heavy gold hoops that look like a Zurich splurge. “The left one is a directional mic. The right is a bone-conduction receiver. The diamond looking stone is actually a low res camera. If we need to talk to you, you’ll hear us through your jawbone. It’s the most discreet way to keep you on a leash.”
+Inspector Pinto stands by the window, staring out at the San Francisco fog. “We’re still blind on Mr. Zheng Lena. No face. He’s a ghost. You will be our only eyes on the ground. If he shows up, if he calls, if he even whispers a name—we need it.”
+“Then I’m the only one going in blind,” Lena says, her voice trembling as she puts on the earrings.
+“You’re the bridge,” Pinto says, turning to her. “Collect the doctor and the hacker. Take them to the site. Don’t let the seam show.”
+The drive to the Sequoia National Forest feels like a descent into a forgotten world. As the Escalade climbs higher, the towering redwoods begin to blot out the sun, casting the road in a permanent, mossy twilight. In the back, Erica and Paul are quiet, the transition from the luxury of Napa to the rugged isolation of the mountains finally sinking in.
+When they pull into the clearing of the abandoned logging site, Erica stares at the rusted, corrugated metal of the warehouse. It looks like a ghost of the 1950s, swallowed by the forest.
+“Lena,” Erica says, her voice skeptical as she steps out into the damp air. “I expected a facility. This is a logging shed. Why are we in the middle of a national forest? Surely there were better options in the Valley.”
+Lena doesn’t miss a beat, her “concierge” mask snapping back into place. “The synaptic array requires a massive footprint for the cooling towers and the backup generators, Erica. Real estate in the Valley is at a premium—floorspace there is too expensive for a footprint this size. More importantly, it’s under constant security scrutiny. Here, we have the space, the privacy, and a private power grid. The client prefers to spend his money on the science, not on Palo Alto rent.”
+Erica nods slowly, still looking at the rusted exterior. “It’s a bit... rustic.”
+“Wait until you see the inside,” Lena says, leading them toward the heavy sliding doors.
+Inside, the contrast is jarring. The warehouse has been scrubbed, and the annex has been transformed into a medical quality lab. Three Chinese engineers, dressed in pristine white lab coats, are already threading fiber-optic cables through the cedar rafters. They are uncrating massive, silver-shielded processors—the equipment that arrived under the cover of night.
+“The client’s engineers,” Lena explains. “They’ve been working through the night. They’ll stay behind to assist you with the integration and the calibration. They speak limited English, but they understand the math. You have twenty-four hours to ensure the system is stable for the arrival next week.”
+Paul is already at a terminal, his eyes lighting up as he sees the raw processing power sitting on a plywood table. “This is insane. I’ve never seen these specific cooling units before. The architecture is... it’s beautiful.”
+Lena pulls out her phone. She swipes past her messages and taps the YouTube icon.
+A faint, chilling vibration thrums in her right ear.
+“Audio is clear,”
+ Pinto’s voice whispers inside her head, sounding like a ghostly thought. 
+“We see the engineers. Point your earring camera towards the equipment crates. We need to identify the origin of those processors.”
+Lena turns away, her hand instinctively reaching up to touch her earring. She is surrounded by the client’s men and watched by the FBI, standing in a rusted shed that has become the most dangerous room in the world.
+Chapter 34

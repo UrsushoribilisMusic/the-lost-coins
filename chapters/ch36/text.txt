@@ -1,47 +1,52 @@
-Chapter 36 - The Morning After
+Chapter 36: The Morning After
+========================================
 
-The morning light in the Sequoias doesn't so much break as seep—a cold, gray mist that clings to the rusted exterior of the warehouse like a damp wool blanket. Inside, the industrial hum of the cooling units has become the heartbeat of the building, but the humans within it are faring less well.
+The morning light in the Sequoias doesn’t so much break as it does seep—a cold, gray mist that clings to the rusted exterior of the warehouse like a damp wool blanket. Inside, the industrial hum of the cooling units has become the heartbeat of the building, but the humans within it are faring less well.
 
 Lena is the first to the small, cramped bathroom in the annex. She barely gets the door locked before the pizza and the stress of her double life make a violent reappearance. She leans over the porcelain, her knuckles white, her breath hitching in the cold air.
 
-A soft knock at the door.
+A soft knock at the door makes her jump.
 
-"Lena? You okay?" It's Erica.
+“Lena? You okay?”
 
-Lena splashes cold water on her face and opens the door. Erica is standing there, leaning against the corrugated metal wall, looking a shade of pale that matches her lab coat.
+It’s Erica. Lena splashes cold water on her face, wipes her mouth, and opens the door. Erica is standing there, leaning against the corrugated metal wall, her face a shade of pale that matches her lab coat.
 
-"I'm fine," Lena lies. "The pepperoni from that joint wasn't as local as they claimed."
+“I’m fine,” Lena lies, though her hands are still trembling. “I think... maybe the pepperoni from that joint wasn’t as ‘local’ as they claimed.”
 
-Erica lets out a dry, pained laugh and slides into the bathroom as Lena exits. "Tell me about it. If I ever see another cardboard box, it'll be too soon."
+Erica lets out a dry, pained laugh and slides into the bathroom as Lena exits. “Tell me about it. I feel like my stomach is currently undergoing a synaptic recalibration of its own. If I ever see another cardboard box, it’ll be too soon.”
 
----
+“Go easy on yourself,” Lena says, leaning against the doorframe. “We have a big day.”
 
-Despite the rough start, the energy in the main warehouse is electric. The Big Fire has been extinguished, replaced by the steady rhythmic blinking of green LEDs.
+“The biggest,” Erica’s voice muffled from behind the door. “Just... give me five minutes to convince my gallbladder we’re on the same team.”
 
-Paul is hunched over his main terminal, eyes bloodshot but bright with victory. Chen stands over him, watching the data flow with a mischievous glint.
+Despite the rough start, the energy in the main warehouse is electric. The “Big Fire” in the servers has been extinguished, replaced by the steady, rhythmic blinking of green LEDs.
 
-"Primary array is synced. Handshake is at 99.9%. Initiating final stress test on the neural buffer."
+Paul is hunched over his main terminal, his eyes bloodshot but bright with victory. Chen is standing over him, watching the data flow with a mischievous glint in his eye.
 
-Chen leans in, taps a specific line on Paul's screen, and shakes his head solemnly. "Paul. Very bad. You forget the fēngshàn."
+“Okay,” Paul mutters, his fingers dancing across the keys. “Primary array is synced. Handshake is at 99.9%. Chen, initiating the final stress test on the neural buffer.”
 
-Paul freezes. "The cooling fan? I checked the RPMs—"
+Chen leans in, squinting at the code. He reaches out and taps a specific line on Paul’s screen, shaking his head solemnly. “Paul. Very bad. You forget the... fēngshàn.”
 
-Chen sighs. "No fēngshàn. System... boom." He makes a small explosion gesture. "You forgot the 'Please' in the command line. Very rude to server. Server angry now."
+Paul freezes, his heart skipping a beat. “The cooling fan? I checked the RPMs, they’re nominal. What’s wrong?”
 
-Paul stares at him deadpan for three full seconds. Then he realizes Chen is holding back a grin.
+Chen sighs, looking disappointed. “No fēngshàn. System... boom.” He makes a small explosion gesture. “You forgot the ‘Please’ in the command line. Very rude to server. Server angry now.”
 
-"You're pulling my leg," Paul groans. "You're making polite computer jokes while I'm sweating through my shirt?"
+Paul stares at him, deadpan, for three full seconds. Then he realizes Chen is holding back a grin.
 
-Chen lets out a high-pitched cackle, slapping Paul on the back. "Paul too serious! System is perfect. 100% logic. Even without 'Please'."
+“You’re pulling my leg,” Paul groans, slumped back in his chair. “You’re actually making ‘polite computer’ jokes while I’m sweating through my shirt?”
 
----
+Chen lets out a high-pitched cackle, slapping Paul on the back. “Paul too serious! System is perfect. 100% logic. Even without ‘Please’.”
 
-Erica emerges from the annex, looking fragile but determined. She walks toward the silver synaptic array and taps commands into her tablet.
+“Go jump in the lake!” Paul laughs, shaking his head. “But the rack is live. We’re ready for the data dump.”
 
-"The calibration run was a success," she announces. "The fluidics are holding pressure, the mapping laser is aligned, and the server rack is hungry."
+Across the floor, Erica emerges from the annex, looking fragile but determined. She walks toward the massive silver synaptic array—the heart of the machine. She taps a few commands into her tablet, watching the sensors stabilize.
+
+“The calibration run was a success,” Erica announces, her voice echoing through the rafters. “The fluidics are holding pressure, the mapping laser is aligned, and the server rack is hungry.”
 
 She looks at Lena, then at the heavy warehouse doors. The humor of the morning fades, replaced by the heavy, clinical reality of what comes next.
 
-"All we're missing now is the patient."
+“Paul is right,” Erica says softly. “The system is perfect. All we’re missing now is the patient.”
 
-Lena feels a cold vibration in her right ear. She doesn't need to check her phone. She knows the FBI is listening to the silence that follows. The trap is primed. The patient is on its way.
+Lena feels a cold vibration in her right ear. She doesn’t need to check her phone to know the FBI is listening to the silence that follows. The trap is primed, the technology is humming, and the “specimen” is officially on its way.
+
+Chapter 37

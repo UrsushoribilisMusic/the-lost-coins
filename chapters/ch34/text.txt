@@ -1,35 +1,44 @@
-Chapter 34 - The Language of Logic
+Chapter 34: The Language of Logic
+========================================
 
-The redwoods outside the warehouse act as a natural sound baffle, trapping the humid air and the low industrial thrum of the cooling units. Inside, the intermission of Napa is officially dead. The next three days are a blur of silver-shielded cables, cold-start sequences, and the relentless smell of ozone.
+The redwoods outside the warehouse act as a natural sound baffle, trapping the humid air and the low, industrial thrum of the cooling units. Inside, the “intermission” of Napa is officially dead. The next three days are a blur of silver-shielded cables, cold-start sequences, and the relentless smell of ozone.
 
-Paul is in his element, crouched on the concrete floor amidst a sea of servers. He's working alongside one of the Chinese team—a man named Chen who wears thick glasses and handles fiber-optic cables with the delicacy of a watchmaker.
+Paul is in his element, crouched on the concrete floor amidst a sea of servers. He’s working alongside one of the Chinese team—a man named Chen who wears thick glasses and handles fiber-optic cables with the delicacy of a watchmaker.
 
-"The latency on the third node is spiking," Paul mutters, tapping furiously at his laptop. "It's like the handshake is failing every forty milliseconds. Chen, you seeing the packet loss?"
+“The latency on the third node is spiking,” Paul mutters, tapping furiously at his laptop. “It’s like the handshake is failing every forty milliseconds. Chen, you seeing the packet loss?”
 
-Chen leans over, squinting at the screen. He mumbles in rapid Mandarin, then tries to translate, his brow furrowed. "Protocol... is... bàozhà... like... big fire?" He makes an explosion gesture with his hands.
+Chen leans over, squinting at the screen. He mumbles something in rapid Mandarin, then tries to translate, his brow furrowed in concentration. “Protocol... is... bàozhà... like... big fire?” He makes an explosion gesture with his hands, looking frustrated.
 
-Paul stares at him for a second, then starts to laugh. "Big fire? You mean it's bottlenecking? The throughput is too high for the bus?"
+Paul stares at him for a second, then starts to laugh. “Big fire? You mean it’s bottlenecking? The throughput is too high for the bus?”
 
-Chen nods vigorously. "Yes! Big fire in small pipe!"
+Chen nods vigorously. “Yes! Big fire in small pipe!”
 
-Paul grins, sliding his laptop over. "Okay, let's widen the pipe. We'll re-route the telemetry through the secondary bus." They bump fists—a clumsy, cross-cultural moment of victory—and dive back into the rack. In the world of binary, they don't need a translator.
+Paul grins, sliding his laptop over so Chen can see the code. “Okay, let’s widen the pipe. We’ll re-route the telemetry through the secondary bus.” They bump fists—a clumsy, cross-cultural moment of victory—and dive back into the rack. In the world of binary, they don’t need a translator.
 
-Across the warehouse, Erica is commanding the annex like a surgical theater. She stops, looking at a list on her tablet, and turns to Lena. "We're short on high-grade saline and specialized heparin. I need a fresh supply of anticoagulants—the quantities they brought won't sustain the mapping process."
+Across the warehouse, Erica is commanding the annex like a surgical theater. She’s directing the other two engineers, her movements sharp and decisive. She stops, looking at a list on her tablet, then turns to Lena.
 
-"The nearest medical supply won't be in the forest," Lena says. "I'll head into the nearest town. An hour out."
+“Lena, I’ve gone through the inventory. We’re short on high-grade saline and specialized heparin. The quantities the engineers brought won’t sustain the mapping process for a week. I need a fresh supply of anticoagulants and specific IV start kits that weren’t in the crates.”
 
-"Then go," Erica says, already turning back to a monitor.
+Lena checks her watch. “The nearest medical supply that carries those won’t be in the forest, Erica. I’ll have to head into the nearest town—maybe an hour out.”
 
-Lena heads for the heavy sliding doors. A shadow blocks her path: one of Gonzales's men, broad-shouldered, canvas jacket. He jingles a set of keys and tilts his head toward the SUV outside.
+“Then go,” Erica says, already turning back to a monitor. “I can’t calibrate the fluidics without the exact viscosity of the saline we’ll be using.”
 
-"The boss says you don't go anywhere alone. I'm your shadow."
+Lena nods, her pulse quickening. This is the window. “I’ll be back as soon as I can.”
 
-"Fine," Lena says. "I need to use the restroom first."
+As Lena heads for the heavy sliding doors, a shadow blocks her path. It’s one of Gonzales’s men—a silent, broad-shouldered man in a canvas jacket. He doesn’t say a word, just jingles a set of keys and tilts his head toward the SUV parked outside.
 
-She slips into the small bathroom in the annex, locks the door, turns on the faucet. She pulls out her phone and taps the YouTube icon.
+“The boss says you don’t go anywhere alone,” he says, his voice like gravel. “I’m your shadow.”
 
-"Zheng is not here," she whispers. "Only engineers and Gonzales's crew. I'm heading to town for medical supplies. I have a tail."
+“Fine,” Lena says, keeping her voice steady. “I need to use the restroom before we hit the road.”
 
-Special Agent Vance's voice settles into her jaw. "Copy that, Lena. Your GPS burst just gave us the lab location. Get the supplies, get back, stay calm. We're moving into position now."
+She slips into the small, cramped bathroom in the annex. She locks the door, turns on the faucet to create a wall of white noise, and pulls out her phone. She doesn’t open a messaging app. She taps the YouTube icon.
 
-Lena taps the phone off, splashes cold water on her face, and walks out to meet her shadow.
+She waits for the faint, familiar thrum in her right ear.
+
+“Zheng is not here,” she whispers, leaning close to the mirror. “Only engineers and Gonzales’s crew. I’m heading to town for medical supplies. I have a tail.”
+
+A second later, Special Agent Smith’s voice vibrates through her jawbone, steady and professional. “Copy that, Lena. This is the break we needed. We didn’t have a fix on the lab location until your GPS burst just now. Knowing the target isn’t on-site yet gives us the window to set up a proper surveillance perimeter and bring in our tech teams without being spotted. Get the supplies, get back, and stay calm. We’re moving into position now.”
+
+Lena taps the phone screen off, takes a deep breath, and splashes cold water on her face. She looks at her reflection—the “concierge” is gone, replaced by a woman trapped between two armies. She wipes her hands, unlocks the door, and walks out to meet her shadow.
+
+Chapter 35

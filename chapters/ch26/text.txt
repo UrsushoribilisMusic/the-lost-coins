@@ -1,11 +1,17 @@
-Chapter 26 - The Decoy
+Chapter 26: The Decoy
+========================================
 
-Scottsdale. Midnight. The Alcor Primary Readiness Wing is silent except for the hum of nitrogen cooling lines.
-
-Jose and Juan, working on behalf of Gonzales, execute a precise operation: replacing a cryogenic storage unit with a decoy containing a deceased woman's body, positioning it to appear as a legitimate patient arrival.
-
-They wheel Unit 803 to a sub-level maintenance area—a camera blind spot—where nitrogen lines are undergoing routine servicing. They load the body into an Apex-series tank, sealing it to pass inspection. The weight differential is negligible. To any automated system, it is indistinguishable from the real thing.
-
-In his monitoring room, security chief Miller notices a brief sensor anomaly: Unit 803 flickers as temporarily missing before reappearing. A junior technician attributes it to the maintenance cycling for new Apex units scheduled for Thursday delivery. Miller dismisses it as a calibration artifact and closes the log.
-
-He has no idea he has just witnessed the first move of what his colleagues will later call the Final Heist. He will only understand the meaning of that blip when the real canister vanishes—and the "new arrival" in the vault turns out to be a ghost.
+The Scottsdale midnight is silent. Jose and Juan move through the Alcor Primary Readiness Wing. They aren’t here for a ghost yet; they are here for the vessel. To pull off a seamless swap later, they need a brand-new, sterile Dewar that looks exactly like a fresh “new arrival” to sit in the pioneer’s place.
+“Quiet,” Jose whispers, his breath hitching as they wheel a gleaming, heavy stainless steel canister—Unit 803—toward a service elevator.
+They don’t leave the building. Instead, they take the unit down to a sub-level maintenance room, a “blind spot” in the facility’s camera grid where the nitrogen lines are being serviced. Waiting there in a nondescript medical bag is the body of a young woman, a tragic casualty of the Phoenix streets whose “donation” was brokered by Gonzales.
+With the clinical detachment of butchers, they load her into the Apex-series tank. They seal the vacuum jacket, prime the nitrogen levels, and prep the unit until it looks like a legitimate, high-priority patient.
+“Weight is perfect,” Juan grunts, checking the digital readout. “No one’s going to notice a ten-gram difference once it’s in the rack.”
+They wheel the now-occupied Unit 803 back into the storage wing, slotting it into a standby position near the high-security vault. It sits there, a ticking heart of ice, waiting for the day of the final heist.
+It isn’t until an hour later that Miller, the Alcor Security Boss, sees the “blip” on his log.
+He sits in his office, reviewing the automated weight-sensor reports. For a few minutes Unit 803 had registered as “missing” from its dock, followed by a slight pressure fluctuation in the sub-level maintenance bay.
+“Hey, check the log on 803,” Miller calls out to the junior tech. “It moved and then reappeared an hour later.”
+The tech taps at his keyboard, his eyes tired. “Probably just the maintenance crew doing the pre-chilling cycle, Boss. They’re scheduled to move the new Apex units to the staging area for that ‘Gold-tier’ arrival on Thursday.”
+Miller looks at the screen. The cameras show the hallway is empty now. He sees the “return” of the tank on the digital map.
+“Probably,” Miller mutters, rubbing his eyes. “Just a sensor blip. These new Apex units are so sensitive they trigger an alert if someone breathes too hard on the docking clamps.”
+He dismisses the alert with a single click. In his mind, it’s just a mundane equipment movement—the kind of “glitch” he’ll only remember three days from now, when the pioneer’s real tank disappears and he realizes the “new arrival” in the vault is a fake.
+Chapter 27

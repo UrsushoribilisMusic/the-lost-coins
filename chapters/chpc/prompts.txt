@@ -1,18 +1,29 @@
-Post-Credits - The Long Sleep
-Runway Video Prompts (veo3 text-to-video)
+PROMPT 1 - The Pulse of the Vault
+Cinematic vertical 9:16 shot, shallow depth of field, cold blue-white color grading. A vast subterranean cryonics facility stretches into darkness — stainless steel dewars line the corridor in perfect symmetry, each unit faintly illuminated by a soft green status light. The camera drifts slowly down the corridor at floor level, revealing polished concrete floors reflecting the ghostly green glow. No characters visible — only the architecture of preservation, humming with low-frequency power. Mood is reverent, cold, and quietly apocalyptic.
 
-PROMPT 1 - Corridor 4 at Alcor
-Seed: none
-Interior wide shot — a long, pristine white corridor in a cryonics facility. The lighting is cold, fluorescent, shadowless. Along one wall: massive stainless steel dewars polished to a mirror finish. A single figure walks away from us down the corridor — a heavyset man in a corporate security jacket, his footsteps the only sound in the vault. Vertical 9:16, interior wide rear shot, the keeper of the future walking the corridor of the long sleep.
+PROMPT 2 - Corridor 4
+Cinematic vertical 9:16 shot, shallow depth of field, desaturated clinical lighting with soft green accent. The Alcor Security Chief — a broad, square-jawed man in his fifties with close-cropped gray hair, wearing a dark tactical uniform with a facility lanyard — walks in three-quarter back view down a pristine white corridor. His footsteps are unhurried, authoritative. Fluorescent overhead panels cast hard shadows beneath him, while the walls glow faintly with indicator lights. Mood is procedural and heavy with unspoken importance.
 
-PROMPT 2 - Unit 001-H
-Seed: none
-Interior medium close shot — a massive stainless steel dewar, its surface pristine, unmarked except for a laser-etched serial number and a small digital interface pulsing with a soft, steady green light. A fine curl of condensation drifts from the valve. No labels. No names. Just the green pulse and the silence. Vertical 9:16, interior close shot, the real canister — no bullet holes, no yellow labels — the legend hidden in perfect silence.
+PROMPT 3 - Unit 001-H
+Cinematic vertical 9:16 shot, shallow depth of field, ice-blue and silver color grading. The Security Chief — broad-shouldered, gray-haired, dark tactical uniform — stands in side profile before an enormous stainless steel dewar, its surface mirror-polished and flawlessly pristine. A laser-etched serial number gleams at eye level, and below it a digital interface pulses with a slow, steady green light. The camera holds on the Chief's silhouette against the massive cylinder, dwarfed by its scale. Mood is awe-tinged and ceremonial, like standing before a monolith.
 
-PROMPT 3 - The Chief Taps the Dewar
-Seed: none
-Interior medium close shot from the side — a heavyset man in a corporate security jacket stands before the stainless steel dewar. He raises one hand and places it gently against the cold surface, fingers spread. His expression is not triumphant but reverent — the quiet gesture of a man paying respect to someone who changed everything and asked for nothing. Vertical 9:16, interior side medium close shot, the keeper and the kept.
+PROMPT 4 - Status Check
+Cinematic vertical 9:16 shot, shallow depth of field, cold white clinical lighting with green indicator glow. Over-the-shoulder shot from behind the Security Chief — broad-shouldered, gray-haired, dark tactical uniform — as a white-coated technician in their late thirties taps a tablet in front of him. The technician's face is partially visible in three-quarter profile, expression focused and neutral. Between them, the dewar's green light pulses steadily in the background. Mood is bureaucratic routine layered over extraordinary stakes.
 
-PROMPT 4 - The Green Light in the Dark
-Seed: none
-Interior extreme close shot — just the small digital interface panel on Unit 001-H. A slow, steady green pulse. Cold steel around it. Absolute silence. The light blinks once. Twice. The rhythm of something still waiting. Vertical 9:16, extreme close interior shot, the green heartbeat in the vault, the last image of the story.
+PROMPT 5 - The Viewport
+Cinematic vertical 9:16 shot, shallow depth of field, blue-white cryogenic color grading with wispy vapor effects. The Security Chief stands in three-quarter side view, leaning slightly forward as he peers at a small circular glass viewport on the surface of Unit 001-H. A slow curl of white nitrogen vapor drifts across the glass, obscuring whatever lies within. The green interface light catches the edge of his jaw and the silver of his hair. Mood is contemplative, haunted, and profoundly still.
+
+PROMPT 6 - The Legal Machinery
+Cinematic vertical 9:16 shot, shallow depth of field, warm amber office light cutting against a cold blue background. The Security Chief — broad-shouldered, gray-haired, dark tactical uniform — stands in three-quarter back view in the corridor while the white-coated technician reads from a tablet, face at a slight angle, partially lit. The words hang in the air between them — a conversation about lawyers, depositions, and crimes. One dewar in the background pulses its green light like a slow heartbeat. Mood is quiet satisfaction edged with institutional weight.
+
+PROMPT 7 - Zheng and Gonzalez Unseated
+Cinematic vertical 9:16 shot, shallow depth of field, cool gray legal-office color grading. Split-tone visual tone — one half of the frame cold and sterile from the cryonics vault, the other implied warmth of a courtroom elsewhere. The Security Chief in three-quarter profile — broad-shouldered, gray-haired, dark tactical uniform — allows himself a short dry snort of satisfaction, chin slightly lifted. The corridor behind him recedes into soft green-lit darkness. Mood is dry vindication — the machinery of justice grinding forward without ceremony.
+
+PROMPT 8 - Big Maria's Legacy
+Cinematic vertical 9:16 shot, shallow depth of field, amber-tinged shadow grading with institutional fluorescence. The Security Chief walks in three-quarter back view, pausing at a junction in the corridor, hand raised to gesture dismissively to the technician beside him. The gesture is contained but sardonic — the posture of a man who has won without needing to shout. The corridor stretches away in both directions, lined with identical steel cylinders. Mood is dark humor settling into something colder and more permanent.
+
+PROMPT 9 - Sleep Tight, Hal
+Cinematic vertical 9:16 shot, shallow depth of field, intimate low-key lighting — only the green pulse of Unit 001-H and faint ambient blue illumination. The Security Chief — broad-shouldered, gray-haired, dark tactical uniform — reaches out in three-quarter side profile and rests his knuckles gently against the surface of the dewar in a quiet, respectful knock. His lips move almost imperceptibly. The rest of the vault is darkness and silence. Mood is tender and strange — a man saying goodnight to the future.
+
+PROMPT 10 - The Heartbeat in the Dark
+Cinematic vertical 9:16 shot, shallow depth of field, near-total darkness broken only by a single slow green pulse. The Security Chief's silhouette walks away down the corridor, receding into the dark until only his outline remains, then nothing. The camera holds on Unit 001-H alone — stainless steel surface gleaming, the digital interface light pulsing once, twice, three times in the silence. The hum of the facility is the only sound. Mood is vast, patient, and quietly triumphant — an ending that is also a beginning.
